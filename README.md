@@ -6,8 +6,8 @@
 
 ## Content
 
-1. Linear Regression
+[1. Linear Regression](https://github.com/KonovalovaDS/PROJECTS/tree/master/1_LinearRegression)
 
-2. Linear Regression and SGD Regressor
+[2. Linear Regression and SGD Regressor](https://github.com/KonovalovaDS/PROJECTS/tree/master/2_SGDRegressor%20)
 
 
