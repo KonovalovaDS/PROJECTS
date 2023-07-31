@@ -1,8 +1,8 @@
-# <center> Supervised Model: Linear Regression </center>
+# <p align="center"> Supervised Model: Linear Regression </p>
 
-## <center> Profit prediction model for 50 startups in USA </center>
+## <p align="center"> Profit prediction model for 50 startups in USA </p>
 
-<center> <img src = https://st4.depositphotos.com/1350793/23132/i/600/depositphotos_231329254-stock-photo-startup-with-young-man.jpg> </center>
+<p align="center"> <img src = https://st4.depositphotos.com/1350793/23132/i/600/depositphotos_231329254-stock-photo-startup-with-young-man.jpg> </p>
 
 ## Content
 

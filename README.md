@@ -1,8 +1,8 @@
-# <center> PROJECTS </center>
+# <p align="center"> PROJECTS </p>
 
-<center> <img src = https://www.dice.com/binaries/large/content/gallery/dice/insights/2022/08/shutterstock_1007491309.jpg> </center>
+<p align="center"> <img src = https://www.dice.com/binaries/large/content/gallery/dice/insights/2022/08/shutterstock_1007491309.jpg> </p>
 
-## <center> A Sight on my Work </center>
+## <p align="center"> A Sight on my Work </p>
 
 ## Content
 

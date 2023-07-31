@@ -1,7 +1,7 @@
-# <center> Supervised Model: Linear Regression </center>
+# <p align="center"> Supervised Model: Linear Regression </p>
 
-## <center> Price prediction model for Audi vehicles </center>
-<center> <img src = https://media.istockphoto.com/id/1181190845/photo/audi-s5-in-motion.jpg?s=612x612&w=0&k=20&c=biQ4ZQmskFVXbLubSx_NYA-2yz8MUTTYOtUoT33PM5I=> </center>
+## <cp align="center"> Price prediction model for Audi vehicles </p>
+<p align="center"><img src = https://media.istockphoto.com/id/1181190845/photo/audi-s5-in-motion.jpg?s=612x612&w=0&k=20&c=biQ4ZQmskFVXbLubSx_NYA-2yz8MUTTYOtUoT33PM5I=></p>
 
 ## Content
 [1. Project description](README.md#project-description)
