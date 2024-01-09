@@ -10,4 +10,4 @@
 
 [2. Linear Regression and SGD Regressor](https://github.com/KonovalovaDS/PROJECTS/tree/master/2_SGDRegressor%20)
 
-
+[3. RFM Analysis and K-Means Clustering](https://github.com/KonovalovaDS/PROJECTS/tree/master/3_RFMAnalysis&KMeansClustering)
