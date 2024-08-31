@@ -36,17 +36,16 @@ Build a machine learning model, that based on the proposed features, will predic
 All used data set can be found in the folder "DATA"(https://drive.google.com/drive/folders/1NRC8dqhSmrQ1_AglqV15JTVkqoPBusch?usp=sharing). The following additional information has been used:
 - Public Holidays;
 - Weather conditions information;
-<<<<<<< HEAD
 - Open Source Routing Machine (OSRM) data.
-=======
 - Open Source Routing Machine (OSRM) data
->>>>>>> a01b4bba436852b2901de67048ff019dc5ef81f6
+
 
 [To the top](README.md#content)
 
 ### Conclusion
 
 The best results have been reached with XGBoosting algorithm. The metric to avalute the results: Root Mean Squared Log Error (RMSLE)
+
 $$RMSLE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (log (y_i + 1) - log (\hat{y}_i + 1))^2}$$
 
 
