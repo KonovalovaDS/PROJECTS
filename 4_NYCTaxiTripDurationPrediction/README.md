@@ -37,8 +37,6 @@ All used data set can be found in the folder "DATA"(https://drive.google.com/dri
 - Public Holidays;
 - Weather conditions information;
 - Open Source Routing Machine (OSRM) data.
-- Open Source Routing Machine (OSRM) data
-
 
 [To the top](README.md#content)
 
