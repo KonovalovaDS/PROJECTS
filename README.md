@@ -13,3 +13,5 @@
 [3. RFM Analysis and K-Means Clustering](https://github.com/KonovalovaDS/PROJECTS/tree/master/3_RFMAnalysis&KMeansClustering)
 
 [4. New York City taxi ride time duration prediction models](https://github.com/KonovalovaDS/PROJECTS/tree/master/4_NYCTaxiTripDurationPrediction)
+
+[5. Statistical Analysis of Salary trends in Data Science Field](https://github.com/KonovalovaDS/PROJECTS/tree/master/5_StatisticalAnalysis)
