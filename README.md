@@ -15,3 +15,5 @@
 [4. New York City taxi ride time duration prediction models](https://github.com/KonovalovaDS/PROJECTS/tree/master/4_NYCTaxiTripDurationPrediction)
 
 [5. Statistical Analysis of Salary trends in Data Science Field](https://github.com/KonovalovaDS/PROJECTS/tree/master/5_StatisticalAnalysis)
+
+[6. SMOTE: Synthetic Minority Over-sampling TEchnique](https://github.com/KonovalovaDS/PROJECTS/tree/master/5_SMOTE)
