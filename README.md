@@ -16,4 +16,6 @@
 
 [5. Statistical Analysis of Salary trends in Data Science Field](https://github.com/KonovalovaDS/PROJECTS/tree/master/5_StatisticalAnalysis)
 
-[6. SMOTE: Synthetic Minority Over-sampling TEchnique](06_SMOTE)
+[6. SMOTE: Synthetic Minority Over-sampling TEchnique](https://github.com/KonovalovaDS/PROJECTS/tree/master/06_SMOTE)
+
+[7. Online Learning: Student Dropout Probability Prediction](https://github.com/KonovalovaDS/PROJECTS/tree/master/07_DropoutProbability)
