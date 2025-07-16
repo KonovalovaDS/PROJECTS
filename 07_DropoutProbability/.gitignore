@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# macOS system files
+.DS_Store
+
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Environment files (if any)
+.env
+
+# Python packaging files (if unused)
+build/
+dist/
+*.egg-info/
+
+# Docker build cache (optional)
+*.tar

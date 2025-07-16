@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+
+# Git and project files
+.git/
+.gitignore
+README.md
+
+# Notebooks and datasets (not needed in image)
+*.ipynb
+
+# Logs or temp files
+*.log
+*.tmp
