@@ -19,3 +19,5 @@
 [6. SMOTE: Synthetic Minority Over-sampling TEchnique](https://github.com/KonovalovaDS/PROJECTS/tree/master/06_SMOTE)
 
 [7. Online Learning: Student Dropout Probability Prediction](https://github.com/KonovalovaDS/PROJECTS/tree/master/07_DropoutProbability)
+
+[8.Cyber Risk: Intelligence with ML](https://github.com/KonovalovaDS/PROJECTS/tree/master/08_CyberRisk_IntelligenceML)
