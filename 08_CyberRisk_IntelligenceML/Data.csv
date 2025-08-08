@@ -1,0 +1,61 @@
+Sector,CEO_Gender,Size,Security_Invest,Security_Breach_Att,Succ_Sec_Breaches,Sec_Rating,CEO_Sec_Exp,LOT_in_Business,Stock_Market
+Banking,Female,Small,17,11,2,Medium,High,13,No
+Banking,Male,Small,18,12,4,High,Low,9,No
+Banking,Male,Small,17,12,4,High,Medium,22,No
+Banking,Male,Small,24,13,1,High,Medium,3,Yes
+Banking,Male,Small,32,14,3,High,Medium,4,Yes
+Banking,Male,Small,27,11,0,High,Medium,4,Yes
+Banking,Male,Small,43,11,0,High,High,12,Yes
+Hospitality,Male,Small,125,38,34,Low,High,1,Yes
+Hospitality,Male,Small,99,77,34,Low,Medium,3,Yes
+Hospitality,Male,Small,69,111,60,Medium,Medium,9,Yes
+Hospitality,Male,Small,104,78,44,Medium,High,22,Yes
+Hospitality,Male,Small,88,85,51,Medium,Medium,18,Yes
+Hospitality,Male,Small,98,45,21,Medium,Low,4,Yes
+Hospitality,Female,Small,79,312,66,High,Low,9,Yes
+Hospitality,Male,Small,21,76,32,High,Low,3,Yes
+Health Care,Male,Small,32,45,21,Low,Low,6,Yes
+Health Care,Male,Small,27,33,20,Medium,Low,16,Yes
+Health Care,Male,Small,27,20,8,High,High,4,Yes
+Health Care,Male,Small,32,56,19,High,Low,2,Yes
+Health Care,Male,Small,32,50,31,High,Medium,2,Yes
+Banking,Female,Medium,18,21,3,High,High,9,No
+Banking,Female,Medium,18,14,3,Low,High,8,Yes
+Banking,Female,Medium,12,20,1,Low,Medium,14,Yes
+Banking,Female,Medium,21,13,1,Low,Medium,1,Yes
+Banking,Male,Medium,21,7,2,Medium,Low,1,Yes
+Banking,Female,Medium,16,14,2,Medium,Medium,12,Yes
+Hospitality,Male,Medium,100,14,8,High,Low,12,No
+Hospitality,Male,Medium,145,89,51,Low,Low,5,Yes
+Hospitality,Male,Medium,231,85,52,Low,Medium,14,Yes
+Hospitality,Male,Medium,435,143,47,Low,Medium,7,Yes
+Hospitality,Male,Medium,99,321,100,Medium,High,4,Yes
+Hospitality,Male,Medium,91,184,85,Medium,High,21,Yes
+Hospitality,Male,Medium,88,219,88,High,High,14,Yes
+Hospitality,Male,Medium,17,25,12,High,Medium,8,Yes
+Health Care,Female,Medium,27,34,15,Medium,Medium,16,No
+Health Care,Female,Medium,24,24,13,Medium,High,14,No
+Health Care,Male,Medium,15,62,31,Medium,Medium,1,No
+Health Care,Male,Medium,39,14,9,Medium,Low,3,No
+Health Care,Male,Medium,18,48,21,Medium,High,9,No
+Health Care,Male,Medium,149,45,22,Low,Low,13,Yes
+Health Care,Female,Medium,13,48,32,Low,Low,14,Yes
+Health Care,Male,Medium,118,50,18,Low,High,6,Yes
+Health Care,Male,Medium,24,25,14,Medium,High,3,Yes
+Banking,Female,Large,15,17,2,Low,Low,1,No
+Banking,Female,Large,19,19,4,Low,Medium,4,No
+Banking,Male,Large,14,12,2,Medium,Medium,3,No
+Banking,Female,Large,21,11,1,Medium,High,5,No
+Banking,Female,Large,32,19,4,Medium,Low,18,No
+Banking,Male,Large,78,16,2,High,Low,4,No
+Banking,Male,Large,21,10,1,Medium,Medium,14,Yes
+Hospitality,Male,Large,121,21,9,High,High,8,No
+Hospitality,Male,Large,99,85,52,Low,Low,4,Yes
+Hospitality,Male,Large,87,77,33,Low,Medium,8,Yes
+Hospitality,Male,Large,220,87,34,High,High,2,Yes
+Health Care,Male,Large,82,37,21,Low,High,12,No
+Health Care,Female,Large,64,45,19,Medium,Low,21,Yes
+Health Care,Female,Large,56,50,21,Medium,Low,1,Yes
+Health Care,Male,Large,45,45,28,High,Low,7,Yes
+Health Care,Male,Large,38,25,14,High,Low,22,Yes
+Health Care,Male,Large,49,42,26,High,High,7,Yes
