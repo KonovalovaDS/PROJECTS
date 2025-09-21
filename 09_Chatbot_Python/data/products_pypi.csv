@@ -1,0 +1,1749 @@
+product_id,title,description
+urllib3,urllib3,"HTTP library with thread-safe connection pooling, file post, and more."
+requests,requests,Python HTTP for Humans.
+idna,idna,Internationalized Domain Names in Applications (IDNA)
+google-api-core,google-api-core,Google API client core library
+google-auth,google-auth,Google Authentication Library
+yarl,yarl,Yet another URL library
+google-cloud-bigquery,google-cloud-bigquery,Google BigQuery API client library
+google-cloud-core,google-cloud-core,Google Cloud API client core library
+isodate,isodate,An ISO 8601 date/time/duration parser and formatter
+aiohttp,aiohttp,Async http client/server framework (asyncio)
+google-cloud-storage,google-cloud-storage,Google Cloud Storage API client library
+soupsieve,soupsieve,A modern CSS selector implementation for Beautiful Soup.
+google-resumable-media,google-resumable-media,Utilities for Google Media Downloads and Resumable Uploads
+filelock,filelock,A platform independent file lock.
+websocket-client,websocket-client,WebSocket client for Python with low level API options
+google-auth-oauthlib,google-auth-oauthlib,Google Authentication Library
+google-cloud-pubsub,google-cloud-pubsub,Google Cloud Pub/Sub API client library
+pydantic,pydantic,Data validation using Python type hints
+google-api-python-client,google-api-python-client,Google API Client Library for Python
+httplib2,httplib2,A comprehensive HTTP client library.
+paramiko,paramiko,SSH2 protocol library
+gunicorn,gunicorn,WSGI HTTP Server for UNIX
+mako,Mako,A super-fast templating language that borrows the best ideas from the existing templating languages.
+google-cloud-bigquery-storage,google-cloud-bigquery-storage,Google Cloud Bigquery Storage API client library
+google-cloud-dlp,google-cloud-dlp,Google Cloud Dlp API client library
+h11,h11,"A pure-Python, bring-your-own-I/O implementation of HTTP/1.1"
+markdown,Markdown,Python implementation of John Gruber's Markdown.
+google-cloud-bigtable,google-cloud-bigtable,Google Cloud Bigtable API client library
+dnspython,dnspython,DNS toolkit
+pandas-gbq,pandas-gbq,Google BigQuery connector for pandas
+emoji,emoji,Emoji for Python
+grpc-google-iam-v1,grpc-google-iam-v1,IAM API client library
+backoff,backoff,Function decoration for backoff and retry
+google-cloud-datastore,google-cloud-datastore,Google Cloud Datastore API client library
+requests-aws4auth,requests-aws4auth,AWS4 authentication for Requests
+google-cloud-secret-manager,google-cloud-secret-manager,Google Cloud Secret Manager API client library
+cachecontrol,CacheControl,httplib2 caching for requests
+asgiref,asgiref,"ASGI specs, helper code, and adapters"
+httpx,httpx,The next generation HTTP client.
+httpcore,httpcore,A minimal low-level HTTP client.
+google-cloud-logging,google-cloud-logging,Stackdriver Logging API client library
+starlette,starlette,The little ASGI library that shines.
+django,Django,"A high-level Python web framework that encourages rapid development and clean, pragmatic design."
+discord-webhook,discord-webhook,Easily send Discord webhooks with Python
+snowballstemmer,snowballstemmer,This package provides 32 stemmers for 30 languages generated from Snowball algorithms.
+fastapi,fastapi,"FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+uvicorn,uvicorn,The lightning-fast ASGI server.
+sphinx,Sphinx,Python documentation generator
+gevent,gevent,Coroutine-based network library
+ua-parser,ua-parser,Python port of Browserscope's user agent parser
+authlib,Authlib,The ultimate Python library in building OAuth and OpenID Connect servers and clients.
+djangorestframework,djangorestframework,"Web APIs for Django, made easy."
+flask-wtf,Flask-WTF,"Form rendering, validation, and CSRF protection for Flask with WTForms."
+aws-sam-translator,aws-sam-translator,AWS SAM Translator is a library that transform SAM templates into AWS CloudFormation templates
+google-cloud-pubsublite,google-cloud-pubsublite,Google Cloud Pubsublite API client library
+sqlalchemy-utils,SQLAlchemy-Utils,Various utility functions for SQLAlchemy.
+jira,jira,Python library for interacting with JIRA via REST APIs.
+google-cloud-spanner,google-cloud-spanner,Google Cloud Spanner API client library
+maxminddb,maxminddb,Reader for the MaxMind DB format
+google-cloud-appengine-logging,google-cloud-appengine-logging,Google Cloud Appengine Logging API client library
+google-cloud-language,google-cloud-language,Google Cloud Language API client library
+geoip2,geoip2,MaxMind GeoIP2 API
+connexion,connexion,Connexion - API first applications with OpenAPI/Swagger
+pika,pika,Pika Python AMQP Client Library
+google-cloud-firestore,google-cloud-firestore,Google Cloud Firestore API client library
+python-snappy,python-snappy,Python library for the snappy compression library from Google
+flask-caching,Flask-Caching,Adds caching support to Flask applications.
+flask-babel,flask-babel,Adds i18n/l10n support for Flask applications.
+waitress,waitress,Waitress WSGI server
+tld,tld,Extract the top-level domain (TLD) from the URL given.
+w3lib,w3lib,Library of web-related functions
+flask-compress,Flask-Compress,"Compress responses in your Flask app with gzip, deflate, brotli or zstandard."
+google-cloud-vision,google-cloud-vision,Google Cloud Vision API client library
+imdbpy,IMDbPY,IMDbPY is now cinemagoer
+cinemagoer,cinemagoer,Python package to access the IMDb's database
+vcrpy,vcrpy,Automatically mock your HTTP interactions to simplify and speed up testing
+google-cloud-videointelligence,google-cloud-videointelligence,Google Cloud Videointelligence API client library
+pyrogram,Pyrogram,"Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots"
+google-cloud-resource-manager,google-cloud-resource-manager,Google Cloud Resource Manager API client library
+atlassian-python-api,atlassian-python-api,Python Atlassian REST API Wrapper
+google-cloud-recommendations-ai,google-cloud-recommendations-ai,Google Cloud Recommendations Ai API client library
+hstspreload,hstspreload,Chromium HSTS Preload list as a Python package
+discord-py-slash-command,discord-py-slash-command,"Easy, simple, scalable and modular: a Python API wrapper for interactions."
+google-cloud-aiplatform,google-cloud-aiplatform,Vertex AI API client library
+whitenoise,whitenoise,Radically simplified static file serving for WSGI applications
+google-cloud-dataproc,google-cloud-dataproc,Google Cloud Dataproc API client library
+pyramid,pyramid,"The Pyramid Web Framework, a Pylons project"
+scrapy,Scrapy,A high-level Web Crawling and Web Scraping framework
+google-cloud-kms,google-cloud-kms,Google Cloud Kms API client library
+aws-sam-cli,aws-sam-cli,AWS SAM CLI is a CLI tool for local development and testing of Serverless applications
+cssselect2,cssselect2,CSS selectors for Python ElementTree
+pycurl,pycurl,PycURL -- A Python Interface To The cURL library
+cheroot,cheroot,"Highly-optimized, pure-python HTTP server"
+google-cloud-translate,google-cloud-translate,Google Cloud Translate API client library
+tgcrypto,TgCrypto,Fast and Portable Cryptography Extension Library for Pyrogram
+marshmallow-dataclass,marshmallow-dataclass,Python library to convert dataclasses into marshmallow schemas.
+google-cloud-datacatalog,google-cloud-datacatalog,Google Cloud Datacatalog API client library
+dj-database-url,dj-database-url,Use Database URLs in your Django Application.
+autobahn,autobahn,"WebSocket client & server library, WAMP real-time framework"
+eventlet,eventlet,Highly concurrent networking library
+google-cloud-trace,google-cloud-trace,Google Cloud Trace API client library
+djangorestframework-simplejwt,djangorestframework-simplejwt,A minimal JSON Web Token authentication plugin for Django REST Framework
+flask-bcrypt,Flask-Bcrypt,Brcrypt hashing for Flask.
+pymdown-extensions,pymdown-extensions,Extension pack for Python Markdown.
+office365-rest-python-client,Office365-REST-Python-Client,Microsoft 365 & Microsoft Graph Library for Python
+google-cloud-tasks,google-cloud-tasks,Google Cloud Tasks API client library
+paho-mqtt,paho-mqtt,MQTT version 5.0/3.1.1 client class
+python-telegram-bot,python-telegram-bot,We have made you a wrapper you can't refuse
+itemadapter,itemadapter,Common interface for data container classes
+python-ldap,python-ldap,Python modules for implementing LDAP clients
+mkdocs-material-extensions,mkdocs-material-extensions,Extension pack for Python Markdown and MkDocs Material.
+django-crispy-forms,django-crispy-forms,Best way to have Django DRY forms
+playwright,playwright,A high-level API to automate web browsers
+dbutils,DBUtils,Database connections for multi-threaded environments.
+social-auth-core,social-auth-core,Python social authentication made simple.
+weasyprint,weasyprint,The Awesome Document Factory
+webargs,webargs,"Declarative parsing and validation of HTTP request objects, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, Falcon, and aiohttp."
+google-cloud-container,google-cloud-container,Google Cloud Container API client library
+asyncssh,asyncssh,AsyncSSH: Asynchronous SSHv2 client and server library
+drf-spectacular,drf-spectacular,Sane and flexible OpenAPI 3 schema generation for Django REST framework
+google-cloud-speech,google-cloud-speech,Google Cloud Speech API client library
+dominate,dominate,Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.
+rq,rq,"RQ is a simple, lightweight, library for creating background jobs, and processing them."
+social-auth-app-django,social-auth-app-django,"Python Social Authentication, Django integration."
+google-cloud-bigquery-datatransfer,google-cloud-bigquery-datatransfer,Google Cloud Bigquery Datatransfer API client library
+django-phonenumber-field,django-phonenumber-field,An international phone number field for django models.
+aws-lambda-builders,aws-lambda-builders,"Python library to compile, build & package AWS Lambda functions for several runtimes & frameworks."
+httpretty,httpretty,HTTP client mock for Python
+django-allauth,django-allauth,"Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication."
+webtest,WebTest,Helper to test WSGI applications
+django-js-asset,django-js-asset,script tag with additional attributes for django.forms.Media
+google-cloud-texttospeech,google-cloud-texttospeech,Google Cloud Texttospeech API client library
+falcon,falcon,"The ultra-reliable, fast ASGI+WSGI framework for building data plane APIs at scale."
+channels,channels,"Brings async, event-driven capabilities to Django."
+google-cloud-error-reporting,google-cloud-error-reporting,Google Cloud Error Reporting API client library
+pamqp,pamqp,RabbitMQ Focused AMQP low-level library
+cloudscraper,cloudscraper,A Python module to bypass Cloudflare's anti-bot page.
+daphne,daphne,Django ASGI (HTTP/WebSocket) server
+pytube,pytube,Python 3 library for downloading YouTube Videos.
+instana,instana,Python Distributed Tracing & Metrics Sensor for Instana.
+google-cloud-automl,google-cloud-automl,Google Cloud Automl API client library
+google-cloud-workflows,google-cloud-workflows,Google Cloud Workflows API client library
+google-cloud-redis,google-cloud-redis,Google Cloud Redis API client library
+ipfshttpclient,ipfshttpclient,Python IPFS HTTP CLIENT library
+google-cloud-memcache,google-cloud-memcache,Google Cloud Memcache API client library
+google-cloud-os-login,google-cloud-os-login,Google Cloud Os Login API client library
+scrapyd-client,scrapyd-client,A client for Scrapyd
+nextcord,nextcord,A Python wrapper for the Discord API forked from discord.py
+google-cloud-build,google-cloud-build,Google Cloud Build API client library
+wavelink,wavelink,"A robust and powerful, fully asynchronous Lavalink wrapper built for discord.py in Python."
+rjsmin,rjsmin,Javascript Minifier
+rcssmin,rcssmin,CSS Minifier
+google-cloud-dataflow-client,google-cloud-dataflow-client,Google Cloud Dataflow Client API client library
+createsend,createsend,A library which implements the complete functionality of the Campaign Monitor API.
+hypercorn,Hypercorn,A ASGI Server based on Hyper libraries and inspired by Gunicorn
+django-oauth-toolkit,django-oauth-toolkit,OAuth2 Provider for Django
+jishaku,jishaku,A discord.py extension including useful tools for bot development and debugging.
+aio-pika,aio-pika,Wrapper around the aiormq for asyncio and humans
+jinja2,Jinja2,A very fast and expressive template engine.
+markupsafe,MarkupSafe,Safely add untrusted strings to HTML/XML markup.
+werkzeug,Werkzeug,The comprehensive WSGI web application library.
+flask,Flask,A simple framework for building complex web applications.
+discord,discord,A mirror package for discord.py. Please install that instead.
+uritemplate,uritemplate,Implementation of RFC 6570 URI Templates
+webencodings,webencodings,Character encoding aliases for legacy web content
+google-auth-httplib2,google-auth-httplib2,Google Authentication Library: httplib2 transport
+oauth2client,oauth2client,OAuth 2.0 client library
+commonmark,commonmark,Python parser for the CommonMark Markdown spec
+boto,boto,Amazon Web Services Library
+retrying,retrying,Retrying
+flask-cors,flask-cors,A Flask extension simplifying CORS support
+xlwt,xlwt,"Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform, with Python 2.6, 2.7, 3.3+"
+flask-sqlalchemy,Flask-SQLAlchemy,Add SQLAlchemy support to your Flask application.
+simple-salesforce,simple-salesforce,A basic Salesforce.com REST API client.
+ndg-httpsclient,ndg-httpsclient,Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL
+googlemaps,googlemaps,Python client library for Google Maps Platform
+flask-login,Flask-Login,User authentication and session management for Flask.
+scp,scp,scp module for paramiko
+netaddr,netaddr,A network address manipulation library for Python
+wtforms,WTForms,Form validation and rendering for Python web development.
+validators,validators,Python Data Validation for Humans™
+curlify,curlify,Convert Requests request objects to curl commands.
+webob,WebOb,WSGI request and response object
+user-agents,user-agents,"A library to identify devices (phones, tablets) and their capabilities by parsing browser user agent strings."
+python3-openid,python3-openid,OpenID support for modern servers and consumers.
+google-cloud,google-cloud,API Client library for Google Cloud
+google-cloud-monitoring,google-cloud-monitoring,Google Cloud Monitoring API client library
+pyrfc3339,pyRFC3339,Generate and parse RFC 3339 timestamps
+flask-session,Flask-Session,Server-side session support for Flask
+bottle,bottle,Fast and simple WSGI-framework for small web-applications.
+coreapi,coreapi,Python client library for Core API.
+itypes,itypes,Simple immutable types for python.
+coreschema,coreschema,Core Schema.
+pystache,pystache,Mustache for Python
+flask-openid,Flask-OpenID,OpenID support for Flask
+flask-oidc,flask-oidc,OpenID Connect extension for Flask
+python-socketio,python-socketio,Socket.IO server and client for Python
+python-engineio,python-engineio,Engine.IO server and client for Python
+pastedeploy,PasteDeploy,"Load, configure, and compose WSGI applications and servers"
+fake-useragent,fake-useragent,Up-to-date simple useragent faker with real world database
+suds-jurko,suds-jurko,Lightweight SOAP client (Jurko's fork)
+pymsteams,pymsteams,Format messages and post to Microsoft Teams.
+cherrypy,CherryPy,Object-Oriented HTTP framework
+jsonlines,jsonlines,Library with helpers for the jsonlines file format
+pyramid-debugtoolbar,pyramid-debugtoolbar,A package which provides an interactive HTML debugger for Pyramid application development
+ws4py,ws4py,WebSocket client and server library for Python 2 and 3 as well as PyPy
+flask-migrate,Flask-Migrate,SQLAlchemy database migrations for Flask applications using Alembic.
+cssutils,cssutils,A CSS Cascading Style Sheets library for Python
+flask-socketio,Flask-SocketIO,Socket.IO integration for Flask applications
+rfc3987,rfc3987,Parsing and validation of URIs (RFC 3986) and IRIs (RFC 3987)
+flask-basicauth,Flask-BasicAuth,HTTP basic access authentication for Flask.
+url-normalize,url-normalize,URL normalization for Python
+python-memcached,python-memcached,Pure python memcached client
+premailer,premailer,Turns CSS blocks into style attributes
+gcs-oauth2-boto-plugin,gcs-oauth2-boto-plugin,Auth plugin allowing use the use of OAuth 2.0 credentials for Google Cloud Storage in the Boto library.
+google-oauth,google-oauth,OAuth2 for Google APIs
+google-reauth,google-reauth,Google Reauth Library
+image,image,"Django application that provides cropping, resizing, thumbnailing, overlays and masking for images and videos with the ability to set the center of attention,"
+jsmin,jsmin,JavaScript minifier.
+scrapy-splash,scrapy-splash,JavaScript support for Scrapy using Splash
+asana,asana,Asana
+geocoder,geocoder,Geocoder is a simple and consistent geocoding library.
+flask-httpauth,Flask-HTTPAuth,HTTP authentication for Flask routes
+paste,Paste,Tools for using a Web Server Gateway Interface stack
+flask-oauthlib,Flask-OAuthlib,OAuthlib for Flask
+python-logstash,python-logstash,Python logging handler for Logstash.
+pattern,pattern,pattern is a Python package offering a suite of plotting functions to visualize machine learning models and data. It provides intuitive and customizable plots to aid in model evaluation and data analysis.
+python-mimeparse,python-mimeparse,A module provides basic functions for parsing mime-type names and matching them against a list of media-ranges.
+pyftpdlib,pyftpdlib,Very fast asynchronous FTP server library
+prance,prance,Resolving Swagger/OpenAPI 2.0 and 3.0.0 Parser
+flask-marshmallow,flask-marshmallow,Flask + marshmallow for beautiful APIs
+flask-script,Flask-Script,Scripting support for Flask
+scrapy-sentry,scrapy-sentry,Sentry component for Scrapy
+yattag,yattag,Generate HTML or XML in a pythonic way. Pure python alternative to web template engines.Can fill HTML forms with default values and error messages.
+flask-testing,Flask-Testing,Unit testing for Flask
+serverlessrepo,serverlessrepo,A Python library with convenience helpers for working with the AWS Serverless Application Repository.
+flask-mail,Flask-Mail,Flask extension for sending email
+django-compressor,django-compressor,"('Compresses linked and inline JavaScript or CSS into single cached files.',)"
+pymisp,pymisp,Python API for MISP.
+python3-logstash,python3-logstash,Python logging handler for Logstash.
+gdbgui,gdbgui,"Browser-based frontend to gdb. Debug C, C++, Go, or Rust."
+ipaddr,ipaddr,Google's IP address manipulation library
+dnslib,dnslib,Simple library to encode/decode DNS wire-format packets
+cheetah3,Cheetah3,Cheetah is a template engine and code generation tool
+aiohttp-middlewares,aiohttp-middlewares,Collection of useful middlewares for aiohttp applications.
+aiormq,aiormq,Pure python AMQP asynchronous client library
+drf-nested-routers,drf-nested-routers,Nested resources for the Django Rest Framework
+py-cord,py-cord,A Python wrapper for the Discord API
+gdown,gdown,Google Drive Public File/Folder Downloader
+libsass,libsass,Sass for Python: A straightforward binding of libsass for Python.
+djangorestframework-jwt,djangorestframework-jwt,JSON Web Token based authentication for Django REST framework
+shareplum,SharePlum,Python SharePoint Library
+publicsuffixlist,publicsuffixlist,publicsuffixlist implement
+rpyc,rpyc,Remote Python Call (RPyC) is a transparent and symmetric distributed computing library
+gevent-websocket,gevent-websocket,"Websocket handler for the gevent pywsgi server, a Python network library"
+distconfig,distconfig,"Library to manage configuration using Zookeeper, Etcd, Consul"
+django-rest-swagger,django-rest-swagger,Swagger UI for Django REST Framework 3.5+
+rollbar,rollbar,"Easy and powerful exception tracking with Rollbar. Send messages and exceptions with arbitrary context, get back aggregates, and debug production issues quickly."
+args,args,Command Arguments for Humans.
+grequests,grequests,Requests + Gevent
+beaker,Beaker,A Session and Caching library with WSGI Middleware
+josepy,josepy,JOSE protocol implementation in Python
+django-formtools,django-formtools,A set of high-level abstractions for Django forms
+fqdn,fqdn,"Validates fully-qualified domain names against RFC 1123, so that they are acceptable to modern bowsers"
+iptools,iptools,Python utilites for manipulating IPv4 and IPv6 addresses
+imapclient,IMAPClient,"Easy-to-use, Pythonic and complete IMAP client library"
+pafy,pafy,Retrieve YouTube content and metadata
+websocket,websocket,Websocket implementation for gevent
+google-cloud-iam,google-cloud-iam,Google Cloud Iam API client library
+fastapi-utils,fastapi-utils,Reusable utilities for FastAPI
+django-silk,django-silk,Silky smooth profiling for the Django Framework
+gcloud,gcloud,API Client library for Google Cloud
+suds,suds,Lightweight SOAP client (community fork)
+rauth,rauth,"A Python library for OAuth 1.0/a, 2.0, and Ofly."
+requests-oauth,requests-oauth,Hook for adding Open Authentication support to Python-requests HTTP library.
+google-compute-engine,google-compute-engine,Google Compute Engine
+aioresponses,aioresponses,Mock out requests made by ClientSession from aiohttp package
+django-localflavor,django-localflavor,Country-specific Django helpers
+django-axes,django-axes,Keep track of failed login attempts in Django-powered sites.
+cloudinary,cloudinary,Python and Django SDK for Cloudinary
+port-for,port-for,Utility that helps with local TCP ports management. It can find an unused TCP localhost port and remember the association.
+google-cloud-dns,google-cloud-dns,Google Cloud DNS API client library
+acme,acme,ACME protocol implementation in Python
+quart,Quart,A Python ASGI web framework with the same API as Flask
+trafilatura,trafilatura,"Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML."
+google-cloud-billing,google-cloud-billing,Google Cloud Billing API client library
+django-ckeditor,django-ckeditor,Django admin CKEditor integration.
+sigmatools,sigmatools,Tools for the Generic Signature Format for SIEM Systems
+publicsuffix2,publicsuffix2,Get a public suffix for a domain name using the Public Suffix List. Forked from and using the same API as the publicsuffix package.
+jinja2-simple-tags,jinja2-simple-tags,Base classes for quick-and-easy template tag development
+peppercorn,peppercorn,A library for converting a token stream into a data structure for use in web form posts
+sanic-cors,Sanic-Cors,A Sanic extension adding a decorator for CORS support. Based on flask-cors by Cory Dolphin.
+databases,databases,Async database support for Python.
+routes,Routes,Routing Recognition and Generation Tools
+webapp2,webapp2,Taking Google App Engine's webapp to the next level!
+grpclib,grpclib,Pure-Python gRPC implementation for asyncio
+google-cloud-dataproc-metastore,google-cloud-dataproc-metastore,Google Cloud Dataproc Metastore API client library
+pytricia,pytricia,An efficient IP address storage and lookup module for Python.
+webassets,webassets,"Media asset management for Python, with glue code for various web frameworks"
+apiclient,apiclient,Framework for making good API client libraries using urllib3.
+google-cloud-orchestration-airflow,google-cloud-orchestration-airflow,Google Cloud Orchestration Airflow API client library
+pyfcm,pyfcm,"Python client for FCM - Firebase Cloud Messaging (Android, iOS and Web)"
+demjson,demjson,"encoder, decoder, and lint/validator for JSON (JavaScript Object Notation) compliant with RFC 7159"
+jwt,jwt,JSON Web Token library for Python 3.
+coralogix-logger,coralogix-logger,Coralogix Python SDK
+mleap,mleap,MLeap Python API
+google-cloud-recaptcha-enterprise,google-cloud-recaptcha-enterprise,Google Cloud Recaptcha Enterprise API client library
+tabulator,tabulator,Consistent interface for stream reading and writing tabular data (csv/xls/json/etc)
+certbot,certbot,ACME client
+google-cloud-ndb,google-cloud-ndb,NDB library for Google Cloud Datastore
+django-autocomplete-light,django-autocomplete-light,Fresh autocompletes for Django
+httpie,httpie,"HTTPie: modern, user-friendly command-line HTTP client for the API era."
+pysolr,pysolr,Lightweight Python client for Apache Solr
+django-user-agents,django-user-agents,"A django package that allows easy identification of visitors' browser, operating system and device information (mobile phone, tablet or has touch capabilities)."
+aiohttp-session,aiohttp-session,sessions for aiohttp.web
+google-cloud-scheduler,google-cloud-scheduler,Google Cloud Scheduler API client library
+tableschema,tableschema,A utility library for working with Table Schema in Python
+flask-api,Flask-API,Browsable web APIs for Flask.
+sphinx-bootstrap-theme,sphinx-bootstrap-theme,Sphinx Bootstrap Theme.
+flask-opentracing,Flask-OpenTracing,OpenTracing support for Flask applications
+cloudml-hypertune,cloudml-hypertune,A library to report Google CloudML Engine HyperTune metrics.
+ipy,IPy,Class and tools for handling of IPv4 and IPv6 addresses and networks
+disnake,disnake,A Python wrapper for the Discord API
+cityhash,cityhash,Python bindings for CityHash and FarmHash
+drf-extensions,drf-extensions,Extensions for Django REST Framework
+pygeocodio,pygeocodio,Python wrapper for Geocod.io API
+rfc3339,rfc3339,Format dates according to the RFC 3339.
+suds-community,suds-community,Lightweight SOAP client (community fork)
+requests-async,requests-async,"Simple async HTTP client with requests-like interface, powered by httpx"
+django-tables2,django-tables2,Table/data-grid framework for Django
+fortnitepy,fortnitepy,Library for interacting with fortnite services
+django-auth-ldap,django-auth-ldap,Django LDAP authentication backend
+sqlmodel,sqlmodel,"SQLModel, SQL databases in Python, designed for simplicity, compatibility, and robustness."
+mitmproxy,mitmproxy,"An interactive, SSL/TLS-capable intercepting proxy for HTTP/1, HTTP/2, and WebSockets."
+google-cloud-dataplex,google-cloud-dataplex,Google Cloud Dataplex API client library
+librato-metrics,librato-metrics,Python API Wrapper for Librato
+discord-ui,discord-ui,A disord.py extension for discord's ui/interaction features
+flask-principal,Flask-Principal,Identity management for flask
+cpp-coveralls,cpp-coveralls,Upload gcov to coveralls.io
+python-whois,python-whois,Whois querying and parsing of domain registration information.
+paramiko-ng,paramiko-ng,SSH2 protocol library
+django-cacheops,django-cacheops,A slick ORM cache with automatic granular event-driven invalidation for Django.
+pywebpush,pywebpush,WebPush publication library
+mechanize,mechanize,"Stateful, programmatic web browsing"
+flask-oidc-ext,flask-oidc-ext,OpenID Connect extension for Flask
+pytgcalls,pytgcalls,a library connecting the tgcalls Python binding with MTProto
+circleci,circleci,Python wrapper for the CircleCI API
+draftjs-exporter,draftjs-exporter,Library to convert rich text from Draft.js raw ContentState to HTML
+sorl-thumbnail,sorl-thumbnail,Thumbnails for Django
+django-admin-sortable2,django-admin-sortable2,"Generic drag-and-drop sorting for the List, the Stacked- and the Tabular-Inlines Views in the Django Admin"
+relevanceai-dev,RelevanceAI-dev,"![Github Banner](assets/github_banner.png)
+
+## Relevance AI - The ML Platform for Unstructured Data Analysis 
+[![Documentation Status](https://readthedocs.org/projects/relevanceai/badge/?version=latest)](https://relevanceai.readthedocs.io/en/latest/?badge=latest)
+[![License](https://img.shields.io/pypi/l/relevanceai)](https://img.shields.io/pypi/l/relevanceai)
+
+🌎 80% of data in the world is unstructured in the form of text, image, audio, videos, and more.
+
+🔥 Use Relevance to unlock the value of your unstructured data:
+- ⚡ Quickly analyze unstructured data with pre-trained machine learning models in a few lines of code.
+- ✨ Visualize your unstructured data. Text highlights from Named entity recognition, Word cloud from keywords, Bounding box from images.
+- 📊 Create charts for both structured and unstructured.
+- 🔎 Drilldown with filters and similarity search to explore and find insights.
+- 🚀 Share data apps with your team.
+
+[Sign up for a free account ->](https://hubs.ly/Q017CkXK0)
+
+Relevance AI also acts as a platform for:
+- 🔑 Vectors, storing and querying vectors with flexible vector similarity search, that can be combined with multiple vectors, aggregates and filters.
+- 🔮 ML Dataset Evaluation, for debugging dataset labels, model outputs and surfacing edge cases.
+
+
+## 🧠 Documentation
+
+| Type      | Link |
+| ------------- | ----------- |
+| Python API | [Documentation](https://sdk.tryrelevance.com/) |
+| Python Reference | [Documentation](https://relevanceai.readthedocs.io/en/latest/)        |
+| Cloud Dashboard | [Documentation](https://docs.tryrelevance.com/) |
+
+## 🛠️ Installation
+
+Using pip:
+
+```{bash}
+pip install -U relevanceai
+```
+Using conda:
+
+```{bash}
+conda install -c relevance relevanceai
+```
+
+## ⏩ Quickstart
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RelevanceAI/RelevanceAI/blob/development/guides/quickstart_guide.ipynb)
+
+Login to `relevanceai`:
+```{python}
+from relevanceai import Client
+
+client = Client()
+```
+
+Prepare your documents for insertion by following the below format:
+- Each document should be a dictionary
+- Include a field `_id` as a primary key, otherwise it's automatically generated
+- Suffix vector fields with `_vector_`
+
+```{python}
+docs = [
+    {""_id"": ""1"", ""example_vector_"": [0.1, 0.1, 0.1], ""data"": ""Documentation""},
+    {""_id"": ""2"", ""example_vector_"": [0.2, 0.2, 0.2], ""data"": ""Best document!""},
+    {""_id"": ""3"", ""example_vector_"": [0.3, 0.3, 0.3], ""data"": ""document example""},
+    {""_id"": ""4"", ""example_vector_"": [0.4, 0.4, 0.4], ""data"": ""this is another doc""},
+    {""_id"": ""5"", ""example_vector_"": [0.5, 0.5, 0.5], ""data"": ""this is a doc""},
+]
+```
+
+### Insert data into a dataset
+
+Create a dataset object with the name of the dataset you'd like to use. If it doesn't exist, it'll be created for you.
+
+```{python}
+ds = client.Dataset(""quickstart"")
+ds.insert_documents(docs)
+```
+> Quick tip! Our Dataset object is compatible with common dataframes methods like `.head()`, `.shape()` and `.info()`.
+
+### Perform vector search
+
+```{python}
+query = [
+    {""vector"": [0.2, 0.2, 0.2], ""field"": ""example_vector_""}
+]
+results = ds.search(
+    vector_search_query=query,
+    page_size=3,
+)
+```
+[Learn more about how to flexibly configure your vector search ->](https://sdk.tryrelevance.com/docs/search)
+
+### Perform clustering
+
+Generate clusters
+```{python}
+clusterop = ds.cluster(vector_fields=[""example_vector_""])
+clusterop.list_closest()
+```
+
+Generate clusters with sklearn
+```{python}
+from sklearn.cluster import AgglomerativeClustering
+
+cluster_model = AgglomerativeClustering()
+clusterop = ds.cluster(vector_fields=[""example_vector_""], model=cluster_model, alias=""agglomerative"")
+clusterop.list_closest()
+```
+[Learn more about how to flexibly configure your clustering ->](https://sdk.tryrelevance.com/docs/search)
+
+## 🧰 Config
+
+The config object contains the adjustable global settings for the SDK. For a description of all the settings, see [here](https://github.com/RelevanceAI/RelevanceAI/blob/development/relevanceai/constants/config.ini).
+
+To view setting options, run the following:
+
+```{python}
+client.config.options
+```
+
+The syntax for selecting an option is section.key. For example, to disable logging, run the following to modify logging.enable_logging:
+
+```{python}
+client.config.set_option('logging.enable_logging', False)
+```
+
+To restore all options to their default, run the following:
+
+### Changing the base URL
+
+You can change the base URL as such:
+
+```{python}
+client.base_url = ""https://.../latest""
+```
+
+## 🚧 Development
+
+### Getting Started
+To get started with development, ensure you have pytest and mypy installed. These will help ensure typechecking and testing.
+
+```{bash}
+python -m pip install pytest mypy
+```
+
+Then run testing using:
+
+> Don't forget to set your test credentials!
+
+```{bash}
+export TEST_PROJECT = xxx
+export TEST_API_KEY = xxx
+
+python -m pytest
+mypy relevanceai
+```
+
+Set up precommit
+
+```{bash}
+pip install precommit
+pre-commit install
+```"
+pusher,pusher,A Python library to interract with the Pusher Channels API
+backoff-stubs,backoff-stubs,External type annotations for the backoff library
+python-twitter,python-twitter,A Python wrapper around the Twitter API
+flask-bootstrap,Flask-Bootstrap,"An extension that includes Bootstrap in your project, without any boilerplate code."
+uri,uri,"A type to represent, query, and manipulate a Uniform Resource Identifier."
+tgcalls,tgcalls,a Python binding for tgcalls C++ library
+aiohttp-jinja2,aiohttp-jinja2,jinja2 template renderer for aiohttp.web (http server for asyncio)
+django-admin-autocomplete-filter,django-admin-autocomplete-filter,A simple Django app to render list filters in django admin using autocomplete widget
+flask-assets,Flask-Assets,"Asset management for Flask, to compress and merge CSS and Javascript files."
+pyfunceble-dev,PyFunceble-dev,"The tool to check the availability or syntax of domain, IP or URL."
+twython,twython,"Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs"
+user-agent,user-agent,Library to build content for User-Agent HTTP header
+flask-debugtoolbar,Flask-DebugToolbar,A toolbar overlay for debugging Flask applications.
+django-classy-tags,django-classy-tags,Class based template tags for Django
+drf-jwt,drf-jwt,JSON Web Token based authentication for Django REST framework
+tendo,tendo,A Python library that extends some core functionality
+fredapi,fredapi,Python API for Federal Reserve Economic Data (FRED) from St. Louis Fed
+sanic-plugin-toolkit,sanic-plugin-toolkit,The all-in-one toolkit for creating powerful Sanic Plugins
+wagtail,wagtail,A Django content management system.
+google-cloud-compute,google-cloud-compute,Google Cloud Compute API client library
+envparse,envparse,Simple environment variable parsing
+td-client,td-client,Treasure Data API library for Python
+wsgi-request-logger,wsgi-request-logger,Apache-like combined logging for WSGI Web Applications
+instant-api-client,instant-api-client,"Create API wrappers/clients in minutes, enjoying both blocking and async interfaces from one codebase!"
+google-cloud-retail,google-cloud-retail,Google Cloud Retail API client library
+qiniu,qiniu,Qiniu Resource Storage SDK
+django-rq,django-rq,An app that provides django integration for RQ (Redis Queue)
+google-analytics-data,google-analytics-data,Google Analytics Data API client library
+executor,executor,Programmer friendly subprocess wrapper
+gsheets,gsheets,Pythonic wrapper for the Google Sheets API
+djangorestframework-xml,djangorestframework-xml,XML support for Django REST Framework
+drf-writable-nested,drf-writable-nested,Writable nested helpers for django-rest-framework's serializers
+readability-lxml,readability-lxml,fast html to text parser (article readability tool) with python 3 support
+django-postgres-extra,django-postgres-extra,Bringing all of PostgreSQL's awesomeness to Django.
+sharepy,sharepy,Simple SharePoint Online authentication for Python
+pydictionary,PyDictionary,A real dictionary module for Python
+django-sekizai,django-sekizai,Django Sekizai
+multipart,multipart,Parser for multipart/form-data
+pylogbeat,pylogbeat,"Simple, incomplete implementation of the Beats protocol used by Elastic Beats and Logstash."
+djangorestframework-dataclasses,djangorestframework-dataclasses,A dataclasses serializer for Django REST Framework
+sqlalchemy-continuum,SQLAlchemy-Continuum,Versioning and auditing extension for SQLAlchemy.
+django-recaptcha,django-recaptcha,Django recaptcha form field/widget app.
+robotframework-httpctrl,robotframework-httpctrl,robotframework-httpctrl is a library for Robot Framework that provides HTTP/HTTPS client and HTTP server services.
+django-enumfields,django-enumfields,Real Python Enums for Django.
+infinity,infinity,All-in-one infinity value for Python. Can be compared to any object.
+ec2instanceconnectcli,ec2instanceconnectcli,Command Line Interface for AWS EC2 Instance Connect
+discord-py-interactions,discord-py-interactions,"Easy, simple, scalable and modular: a Python API wrapper for interactions."
+djangosaml2idp,djangosaml2idp,SAML 2.0 Identity Provider for Django
+django-graphql-jwt,django-graphql-jwt,JSON Web Token for Django GraphQL.
+django-bulk-update,django-bulk-update,Bulk update using one query over Django ORM.
+dnspython3,dnspython3,A DNS toolkit for Python 3.x
+rabbitpy,rabbitpy,"A pure python, thread-safe, minimalistic and pythonic RabbitMQ client library"
+pubnub,pubnub,PubNub Real-time push service in the cloud
+django-cache-memoize,django-cache-memoize,Django utility for a memoization decorator that uses the Django cache framework.
+flask-seasurf,Flask-SeaSurf,An updated CSRF extension for Flask.
+django-mathfilters,django-mathfilters,A set of simple math filters for Django
+fred,fred,St. Louis Federal Reserve FRED API
+py-vapid,py-vapid,Simple VAPID header generation library
+intervals,intervals,Python tools for handling intervals (ranges of comparable objects).
+docarray,docarray,The data structure for multimodal data
+whois,whois,Python package for retrieving WHOIS information of domains.
+netsuitesdk,netsuitesdk,Python SDK for accessing the NetSuite SOAP webservice
+lomond,lomond,Websocket Client Library
+ipwhois,ipwhois,Retrieve and parse whois data for IPv4 and IPv6 addresses.
+graphene-file-upload,graphene-file-upload,Lib for adding file upload functionality to GraphQL mutations in Graphene Django and Flask-Graphql
+certbot-apache,certbot-apache,Apache plugin for Certbot
+aiohttp-sse,aiohttp-sse,Server-sent events  support for aiohttp.
+pymobiledetect,pymobiledetect,Detect mobile and tablet browsers
+justext,jusText,Heuristic based boilerplate removal tool
+flask-babelex,Flask-BabelEx,Adds i18n/l10n support to Flask applications
+tinytag,tinytag,Read audio file metadata
+crispy-bootstrap5,crispy-bootstrap5,Bootstrap5 template pack for django-crispy-forms
+bootstrap-flask,Bootstrap-Flask,Bootstrap 4 & 5 helper for your Flask projects.
+discord-together,discord-together,Utilize the BETA Discord VC Party Games feature!
+zappa,zappa,Server-less Python Web Services for AWS Lambda and API Gateway
+google-cloud-runtimeconfig,google-cloud-runtimeconfig,Google Cloud RuntimeConfig API client library
+flask-pymongo,Flask-PyMongo,PyMongo support for Flask applications
+djangorestframework-gis,djangorestframework-gis,Geographic add-ons for Django Rest Framework
+certbot-nginx,certbot-nginx,Nginx plugin for Certbot
+asyncpool,asyncpool,Async coroutine worker pool
+publicsuffix,publicsuffix,Get a public suffix for a domain name using the Public Suffix List.
+pyshorteners,pyshorteners,A Python lib to wrap and consume the most used shorteners APIs
+pytest-httpx,pytest-httpx,Send responses to httpx.
+mod-wsgi,mod-wsgi,Installer for Apache/mod_wsgi.
+gcloud-aio-auth,gcloud-aio-auth,Python Client for Google Cloud Auth
+times,times,"Times is a small, minimalistic, Python library for dealing with time conversions between universal time and arbitrary timezones."
+advertools,advertools,Digital Marketing productivity and analysis tools.
+scrapy-fake-useragent,scrapy-fake-useragent,Use a random User-Agent provided by fake-useragent for every request
+django-admin-list-filter-dropdown,django-admin-list-filter-dropdown,Use dropdowns in Django admin list filter
+django-filer,django-filer,A file management application for django that makes handling of files and images a breeze.
+selenium-stealth,selenium-stealth,Trying to make python selenium more stealthy.
+python-redmine,python-redmine,Library for communicating with a Redmine project management application
+emails,emails,Modern python library for emails.
+xenon,xenon,Monitor code metrics for Python on your CI server
+pastescript,PasteScript,"A pluggable command-line frontend, including commands to setup package file layouts"
+genshi,Genshi,A toolkit for generation of output for the web
+censys,censys,An easy-to-use and lightweight API wrapper for Censys APIs (censys.io).
+python-designateclient,python-designateclient,OpenStack DNS-as-a-Service - Client
+python-logstash-async,python-logstash-async,Asynchronous Python logging handler for Logstash.
+letsencrypt,letsencrypt,ACME client
+pyramid-tm,pyramid-tm,A package which allows Pyramid requests to join the active transaction
+scrapy-crawlera,scrapy-crawlera,Crawlera middleware for Scrapy
+django-rest-passwordreset,django-rest-passwordreset,"An extension of django rest framework, providing a configurable password reset strategy"
+flask-sockets,Flask-Sockets,Elegant WebSockets for your Flask apps.
+scim2-filter-parser,scim2-filter-parser,A customizable parser/transpiler for SCIM2.0 filters.
+django-dotenv,django-dotenv,foreman reads from .env. manage.py doesn't. Let's fix that.
+django-test-migrations,django-test-migrations,"Test django schema and data migrations, including ordering"
+django-crum,django-crum,Django middleware to capture current request and user.
+django-rest-framework,django-rest-framework,alias.
+djangosaml2,djangosaml2,pysaml2 integration for Django
+django-extra-fields,django-extra-fields,Additional fields for Django Rest Framework.
+django-cryptography,django-cryptography,Easily encrypt data in Django
+pychalk,pychalk,Color printing in python
+iocextract,iocextract,Advanced Indicator of Compromise (IOC) extractor.
+flask-security,Flask-Security,Quickly add security features to your Flask application.
+imgviz,imgviz,Image Visualization Tools
+drf-extra-fields,drf-extra-fields,Additional fields for Django Rest Framework.
+h2o-wave,h2o-wave,Python driver for H2O Wave Realtime Apps
+flask-mongoengine,flask-mongoengine,Flask-MongoEngine is a Flask extension that provides integration with MongoEngine and WTF model forms.
+django-split-settings,django-split-settings,Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
+plantuml,plantuml,"###Python-PlantUML
+
+[Plantuml](http://plantuml.sourceforge.net/index.html) is a library for
+generating UML diagrams from a simple text markup language.
+
+This is a simple python remote client interface to a
+[plantuml](http://plantuml.sourceforge.net/index.html) server using the
+same custom encoding used by most other plantuml
+[clients](http://plantuml.sourceforge.net/running.html). Python was
+missing from the list, and while there are other plantuml python
+libraries, like
+[sphinxcontrib-plantuml](https://pypi.python.org/pypi/sphinxcontrib-plantuml),
+they require downloading and installing the java executable and spawning
+a shell subprocesses.
+
+This client defaults to the public [plantuml server](http://www.plantuml.com/plantuml/),
+but can be used against any server.
+
+###Install
+
+    pip install git+https://github.com/SamuelMarks/python-plantuml#egg=plantuml
+
+PS: At some point this newer version will be uploaded to PyPi, at which point you can do:
+
+    pip install plantuml
+
+###Command line help:
+
+    usage: plantuml.py [-h] [-o OUT] [-s SERVER] filename [filename ...]
+
+    Generate images from plantuml defined files using plantuml server
+
+    positional arguments:
+      filename              file(s) to generate images from
+
+    optional arguments:
+      -h, --help            show this help message and exit
+      -o OUT, --out OUT     directory to put the files into
+      -s SERVER, --server SERVER
+                            server to generate from, defaults to plantuml.com
+
+###Project Links:
+
+-   [Documentation](http://pythonhosted.org/plantuml/)
+-   [PyPi](https://pypi.python.org/pypi/plantuml)
+-   [GitHub](https://github.com/dougn/python-plantuml/)"
+chatterbot,ChatterBot,"ChatterBot is a machine learning, conversational dialog engine"
+webdavclient3,webdavclient3,"WebDAV client, based on original package https://github.com/designerror/webdav-client-python but uses requests instead of PyCURL"
+solrq,solrq,Python Solr query utility
+django-cms,django-cms,Lean enterprise content management powered by Django.
+dj-static,dj-static,Serve production static files with Django.
+clickhouse-cityhash,clickhouse-cityhash,"Python-bindings for CityHash, a fast non-cryptographic hash algorithm"
+flask-cache,Flask-Cache,Adds cache support to your Flask application
+dblpy,dblpy,A simple API wrapper for top.gg written in Python.
+validator-collection,validator-collection,Collection of 60+ Python functions for validating data
+google-oauth2-tool,google-oauth2-tool,Create OAuth2 key file from OAuth2 client id file
+django-jinja,django-jinja,Jinja2 templating language integrated in Django.
+fnvhash,fnvhash,Pure Python FNV hash implementation.
+domain2idna,domain2idna,The tool to convert a domain or a file with a list of domain to the famous IDNA format.
+courlan,courlan,"Clean, filter and sample URLs to optimize data collection – includes spam, content type and language filters."
+pecan,pecan,"A WSGI object-dispatching web framework, designed to be lean and fast, with few dependencies."
+wtforms-components,WTForms-Components,"Additional fields, validators and widgets for WTForms."
+apeye,apeye,Handy tools for working with URLs and APIs.
+django-q,django-q,A multiprocessing distributed task queue for Django
+httplib2shim,httplib2shim,A wrapper over urllib3 that matches httplib2's interface
+pykeyboard,pykeyboard,Best Keyboard and Pagination for the Pyrogram Library.
+recurly,recurly,Recurly v4
+spyne,spyne,A transport and architecture agnostic rpc library that focuses on exposing public services with a well-defined API.
+python-status,python-status,HTTP Status for Humans
+gcloud-aio-storage,gcloud-aio-storage,Python Client for Google Cloud Storage
+django-rest-knox,django-rest-knox,Authentication for django rest framework
+flask-sslify,Flask-SSLify,Force SSL on your Flask app.
+emoji-country-flag,emoji-country-flag,En/Decode unicode country flags emoji
+pyocclient,pyocclient,Python client library for ownCloud
+cloudsmith-cli,cloudsmith-cli,Cloudsmith Command-Line Interface (CLI)
+ciscoconfparse,ciscoconfparse,"Parse, Audit, Query, Build, and Modify Cisco IOS-style and JunOS-style configs"
+instaloader,instaloader,Download pictures (or videos) along with their captions and other metadata from Instagram.
+sqreen,sqreen,Sqreen agent to protect Python applications.
+flask-pydantic,Flask-Pydantic,Flask extension for integration with Pydantic library.
+djangocms-admin-style,djangocms-admin-style,Adds pretty CSS styles for the django CMS admin interface.
+buttons,buttons,"A simple to use, interactive session and paginator with custom buttons for discord.py."
+wsme,WSME,"Simplify the writing of REST APIs, and extend them with additional protocols."
+fido2,fido2,FIDO2/WebAuthn library for implementing clients and servers.
+sse-starlette,sse-starlette,SSE plugin for Starlette
+djangorestframework-jsonapi,djangorestframework-jsonapi,A Django REST framework API adapter for the JSON:API spec.
+jinja2schema,jinja2schema,Type inference for Jinja2 templates.
+metrohash-python,metrohash-python,Python bindings for MetroHash
+flask-sock,flask-sock,WebSocket support for Flask
+django-ninja,django-ninja,Django Ninja - Fast Django REST framework
+djangorestframework-filters,djangorestframework-filters,Better filtering for Django REST Framework
+pymacaroons,pymacaroons,Macaroon library for Python
+djangorestframework-recursive,djangorestframework-recursive,Recursive Serialization for Django REST framework
+ebaysdk,ebaysdk,eBay SDK for Python
+certbot-dns-route53,certbot-dns-route53,Route53 DNS Authenticator plugin for Certbot
+django-summernote,django-summernote,Summernote plugin for Django
+amazoncaptcha,amazoncaptcha,"""Pure Python, lightweight, Pillow-based solver for the Amazon text captcha."""
+flask-simplelogin,flask_simplelogin,Flask Simple Login - Login Extension for Flask
+demjson3,demjson3,"encoder, decoder, and lint/validator for JSON (JavaScript Object Notation) compliant with RFC 7159"
+amqpstorm,AMQPStorm,Thread-safe Python RabbitMQ Client & Management library.
+flask-smorest,flask-smorest,Flask/Marshmallow-based REST API framework
+env,env,Environment Variables for Humans
+wtforms-json,WTForms-JSON,Adds smart json support for WTForms. Useful for when using WTForms with RESTful APIs.
+fanstatic,fanstatic,Flexible static resources for web applications
+jina,jina,"Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc."
+ldap,ldap,Placeholder for the ldap name
+flask-json,Flask-JSON,Better JSON support for Flask
+veracode-api-signing,veracode-api-signing,Easily sign any request destined for the Veracode API Gateway
+tailbone,Tailbone,Backoffice Web Application for Rattail
+pyfunceble,PyFunceble,"The tool to check the availability or syntax of domain, IP or URL."
+dj-inmemorystorage,dj-inmemorystorage,A non-persistent in-memory data storage backend for Django.
+twitter,twitter,An API and command-line toolset for Twitter (twitter.com)
+drf-spectacular-sidecar,drf-spectacular-sidecar,Serve self-contained distribution builds of Swagger UI and Redoc with Django
+django-parler,django-parler,"Simple Django model translations without nasty hacks, featuring nice admin integration."
+ftputil,ftputil,High-level FTP client library (virtual file system and more)
+pysmartdl,pySmartDL,A Smart Download Manager for Python
+pyrabbit,pyrabbit,A Pythonic interface to the RabbitMQ Management HTTP API
+django-memoize,django-memoize,An implementation of memoization technique for Django.
+topggpy,topggpy,A simple API wrapper for Top.gg written in Python.
+apache-bookkeeper-client,apache-bookkeeper-client,Apache BookKeeper client library
+http3,http3,The next generation HTTP client.
+amqplib,amqplib,AMQP Client Library
+markdown-include,markdown-include,A Python-Markdown extension which provides an 'include' function
+seleniumbase,seleniumbase,A complete web automation framework for end-to-end testing.
+aws-wsgi,aws-wsgi,WSGI adapter for AWS API Gateway/Lambda Proxy Integration
+pyexcel-webio,pyexcel-webio,A generic request and response interface for pyexcel web extensions.
+pylons,Pylons,Pylons Web Framework
+flask-redis,flask-redis,A nice way to use Redis in your Flask app
+flask-jwt,Flask-JWT,JWT token authentication for Flask apps
+feedgen,feedgen,"Feed Generator (ATOM, RSS, Podcasts)"
+rockset,rockset,The python client for the Rockset API.
+behave-django,behave-django,Behave BDD integration for Django
+bleach-allowlist,bleach-allowlist,Curated lists of tags and attributes for sanitizing html
+django-session-security,django-session-security,Client and server side session timeout with warnings
+webhelpers,WebHelpers,Web Helpers
+cmreshandler,CMRESHandler,Elasticsearch Log handler for the logging library
+aspen,aspen,A filesystem router for Python web frameworks
+mohawk,mohawk,Library for Hawk HTTP authorization
+django-simple-captcha,django-simple-captcha,"A very simple, yet powerful, Django captcha application"
+pyld,PyLD,Python implementation of the JSON-LD API
+weberror,WebError,Web Error handling and exception catching
+django-rest-slack,django-rest-slack,"A simple, reusable Django app for handling and storing Slack events and slash commands."
+django-revproxy,django-revproxy,Yet another Django reverse proxy application
+aioquic,aioquic,An implementation of QUIC and HTTP/3
+ibm-watson-machine-learning,ibm-watson-machine-learning,IBM Watson Machine Learning API Client
+django-guid,django-guid,Middleware that enables single request-response cycle tracing by injecting a unique ID into project logs
+django-cachalot,django-cachalot,Caches your Django ORM queries and automatically invalidates them.
+flup,flup,Random assortment of WSGI servers (py3)
+javascriptpy,javascriptpy,This package lets you use Javascript like objects in python.
+django-defender,django-defender,redis based Django app that locks out users after too many failed login attempts.
+djangorestframework-bulk,djangorestframework-bulk,Django REST Framework bulk CRUD view mixins
+mimerender,mimerender,"RESTful HTTP Content Negotiation for Flask, Bottle, web.py and webapp2 (Google App Engine)"
+fastapi-sqlalchemy,FastAPI-SQLAlchemy,Adds simple SQLAlchemy support to FastAPI
+ipcalc,ipcalc,IP subnet calculator
+django-sass-processor,django-sass-processor,"SASS processor to compile SCSS files into *.css, while rendering, or offline."
+djangocms-attributes-field,djangocms-attributes-field,Adds attributes to Django models.
+phonetics,phonetics,Compute phonetic key of strings for indexing or fuzzy matching
+chatterbot-voice,chatterbot-voice,A voice interface adapter for ChatterBot.
+fastapi-jwt-auth,fastapi-jwt-auth,"FastAPI extension that provides JWT Auth support (secure, easy to use and lightweight)"
+sqlalchemy-api-handler,SQLAlchemy-Api-Handler,Adds SQLAlchemy support to your Flask application for handle apis.
+tftpy,tftpy,A TFTP protocol library for Python
+panda,panda,A Python implementation of the Panda REST interface
+arcgis,arcgis,ArcGIS API for Python
+ultimate-hosts-blacklist-whitelist-dev,ultimate-hosts-blacklist-whitelist-dev,The whitelisting tool of the Ultimate Hosts Blacklist project.
+ultimate-hosts-blacklist-helpers,ultimate-hosts-blacklist-helpers,The helpers classes/functions of the Ultimate Hosts Blacklist project.
+ultimate-hosts-blacklist-test-launcher,ultimate-hosts-blacklist-test-launcher,The test launcher of the Ultimate-Hosts-Blacklist project.
+flask-gzip,Flask-gzip,Compress responses in your Flask app with gzip.
+django-jazzmin,django-jazzmin,"Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy"
+djangorestframework-guardian,djangorestframework-guardian,django-guardian support for Django REST Framework
+frozen-flask,Frozen-Flask,Freezes a Flask application into a set of static files.
+python-openid,python-openid,OpenID support for servers and consumers.
+c2cgeoportal-admin,c2cgeoportal-admin,c2cgeoportal admin
+c2cgeoportal-commons,c2cgeoportal-commons,c2cgeoportal commons
+twitter-ads,twitter-ads,A Twitter supported and maintained Ads API SDK for Python.
+wkhtmltopdf,wkhtmltopdf,Simple python wrapper for wkhtmltopdf
+starlette-prometheus,starlette-prometheus,Prometheus integration for Starlette
+bottle-websocket,bottle-websocket,WebSockets for bottle
+relevanceai,relevanceai,"## Relevance AI - The home of your AI Workforce
+
+🔥 Use Relevance to build AI agents for your AI workforce
+
+[Sign up for a free account ->](https://app.relevanceai.com)
+
+## 🧠 Documentation
+
+| Type      | Link |
+| ------------- | ----------- |
+| Home Page | [Home Page](https://relevanceai.com/) |
+| Platform | [Platform](https://app.relevanceai.com/) |
+| Developer Documentation | [Documentation](https://sdk.relevanceai.com/) |
+
+# Relevance AI SDK
+
+Welcome to the Relevance AI SDK! This guide will help you set up and start using the SDK to interact with your AI agents, tools, and knowledge.
+
+## Installation
+
+To get started, you'll need to install the RelevanceAI library in a Python 3 environment. Run the following command in your terminal:
+
+```bash
+pip install relevanceai
+```
+
+## Create an Account
+
+Before using the SDK, ensure you have an account with Relevance AI.
+
+1. Sign up for a free account at [Relevance AI](https://app.relevanceai.com) and log in.
+2. Create a new secret key at [SDK Login](https://app.relevanceai.com/login/sdk). Scroll to the bottom of the integrations page, click on ""+ Create new secret key,"" and select ""Admin"" permissions.
+
+## Set Up Your Client
+
+To interact with Relevance AI, you'll need to set up a client. Start by importing the library:
+
+```python
+from relevanceai import RelevanceAI
+client = RelevanceAI()
+```
+
+### Validate Client Credentials
+
+You can validate your client credentials by storing them as environment variables and loading them into your project using `python-dotenv` or the `os` library:
+
+```env
+RAI_API_KEY=
+RAI_REGION=
+RAI_PROJECT=
+```
+
+```python
+from dotenv import load_dotenv
+load_dotenv()
+
+from relevanceai import RelevanceAI
+client = RelevanceAI()
+```
+
+Alternatively, pass the credentials directly to the client:
+
+```python
+from relevanceai import RelevanceAI
+client = RelevanceAI(
+    api_key=""your_api_key"", 
+    region=""your_region"", 
+    project=""your_project""
+)
+```
+
+You are now ready to start using Relevance AI via the Python SDK.
+
+## Quickstart
+
+### Using Agents & Tasks
+
+List all the agents in your project:
+
+```python
+from relevanceai import RelevanceAI
+client = RelevanceAI()
+
+agents = client.agents.list_agents()
+print(agents)
+# Example output: [Agent(agent_id=""xxxxxxxx"", name=""Sales Qualifier""), ...]
+```
+
+Retrieve and interact with a specific agent:
+
+```python
+my_agent = client.agents.retrieve_agent(agent_id=""xxxxxxxx"")
+
+message = ""Let's qualify this lead:\n\nName: Ethan Trang\n\nCompany: Relevance AI\n\nEmail: ethan@relevanceai.com""
+
+# Trigger a task with the agent
+task = my_agent.trigger_task(message=message)
+print(f""Task started with ID: {task.conversation_id}"")
+
+# View task progress
+steps = my_agent.view_task_steps(conversation_id=task.conversation_id)
+```
+
+### Using Tools
+
+List all the tools in your project:
+
+```python
+tools = client.tools.list_tools()
+print(tools)
+# Example output: [Tool(tool_id=""xxxxxxxx"", title=""Search Website""), ...]
+```
+
+Retrieve and interact with a specific tool:
+
+```python
+my_tool = client.tools.retrieve_tool(tool_id=""xxxxxxxx"")
+
+# Check tool parameters schema
+params_schema = my_tool.get_params_schema()
+
+# Trigger the tool
+result = my_tool.trigger(params={""search_query"": ""AI automation""})
+```
+
+### Managing Knowledge Sets
+
+Work with knowledge sets to store and retrieve data:
+
+```python
+# List knowledge sets
+knowledge_sets = client.knowledge.list_knowledge()
+
+# Retrieve data from a knowledge set
+data = client.knowledge.retrieve_knowledge(knowledge_set=""my_dataset"")
+```
+
+### Managing Tasks
+
+Track and manage ongoing tasks:
+
+```python
+# Get task metadata
+metadata = client.tasks.get_metadata(conversation_id=""xxxxxxxx"")
+
+# Delete a completed task
+client.tasks.delete_task(conversation_id=""xxxxxxxx"")
+```
+
+## Explore More
+
+Explore all the methods available for agents, tasks, tools, and knowledge with the [documentation](https://sdk.relevanceai.com/)"
+dj-email-url,dj-email-url,Use an URL to configure email backend settings in your Django Application.
+flask-weasyprint,flask_weasyprint,Make PDF in your Flask app with WeasyPrint
+rq-dashboard,rq-dashboard,"rq-dashboard is a general purpose, lightweight, web interface to monitor your RQ queues, jobs, and workers in realtime."
+avisdk,avisdk,"Avi python API SDK for Avi Controller REST API with samples and, utilities"
+wsgiproxy2,WSGIProxy2,A WSGI Proxy with various http client backends
+flask-discord,Flask-Discord,Discord OAuth2 extension for Flask.
+globus-sdk,globus-sdk,Globus SDK for Python
+zdesk,zdesk,Zendesk API generated directly from developer.zendesk.com
+wtforms-alchemy,WTForms-Alchemy,Generates WTForms forms from SQLAlchemy models.
+python-documentcloud,python-documentcloud,A simple Python wrapper for the DocumentCloud API
+aquests,aquests,Asynchronous Multiplexing HTTP2/DBO Requests
+pysnow,pysnow,ServiceNow HTTP client library
+backoff-utils,backoff-utils,Python functions and decorators for various backoff/retry strategies
+zoomus,zoomus,Python client library for Zoom.us REST API v1 and v2
+sanic-plugins-framework,Sanic-Plugins-Framework,"Doing all of the boilerplate to create a Sanic Plugin, so you don't have to."
+mws,mws,Python library for interacting with the Amazon MWS API
+django-post-office,django-post-office,"A Django app to monitor and send mail asynchronously, complete with template support."
+google-cloud-notebooks,google-cloud-notebooks,Google Cloud Notebooks API client library
+asks,asks,asks - async http
+dynamorm,dynamorm,DynamORM is a Python object & relation mapping library for Amazon's DynamoDB service.
+django-admin-inline-paginator,django-admin-inline-paginator,"The ""Django Admin Inline Paginator"" is simple way to paginate your inline in django admin"
+roblox,roblox,ro.py is a modern object-oriented asynchronous Python wrapper for the Roblox web API.
+flask-security-too,Flask-Security-Too,Quickly add security features to your Flask application.
+django-dynamic-preferences,django-dynamic-preferences,Dynamic global and instance settings for your django project
+selectolax,selectolax,Fast HTML5 parser with CSS selectors.
+pyuwsgi,pyuwsgi,The uWSGI server
+flaskytornado,FlaskyTornado,A microframework based on Tornado and Flask and good intentions
+py3dns,py3dns,Python 3 DNS library
+plone,Plone,The Plone Content Management System
+walkscore-api,walkscore-api,Unofficial Python bindings for the WalkScore API
+djangocms-text-ckeditor,djangocms-text-ckeditor,Text Plugin for django CMS with CKEditor support
+mars,mars,Polyaxon mars.
+arq,arq,Job queues in python with asyncio and redis
+html-sanitizer,html-sanitizer,HTML sanitizer
+flask-excel,Flask-Excel,A flask extension that provides one application programming interface to read and write data in different excel file formats
+srv,srv,Serve a directory with one command
+pylsqpack,pylsqpack,Python wrapper for the ls-qpack QPACK library
+tuspy,tuspy,A Python client for the tus resumable upload protocol ->  http://tus.io
+nameko,nameko,A microservices framework for Python that lets service developers concentrate on application logic and encourages testability.
+dnsdiag,dnsdiag,"DNS Measurement, Troubleshooting and Security Auditing Toolset (ping, traceroute)"
+twitchio,twitchio,"A powerful, asynchronous Python library for twitch.tv."
+django-slowtests,django-slowtests,locate your slowest tests
+google-cloud-testutils,google-cloud-testutils,"#################
+Python Test Utils
+#################
+
+This is a collection of common tools used in system tests of Python client libraries for Google APIs.
+
+We use `nox `__ to instrument our tests. This package is added to each `nox` session as described in each repository's ``noxfile.py``."
+dns-blackhole,dns-blackhole,A generic DNS black hole zone generator
+algoliasearch-django,algoliasearch-django,Algolia Search integration for Django
+djangorestframework-datatables,djangorestframework-datatables,Seamless integration between Django REST framework and Datatables (https://datatables.net)
+pyodata,pyodata,Enterprise ready Python OData client
+htmllistparse,htmllistparse,Python parser for Apache/nginx-style HTML directory listing.
+django-robots,django-robots,"Robots exclusion application for Django, complementing Sitemaps."
+django-reversion-compare,django-reversion-compare,Add compare view to django-reversion for comparing two versions of a reversion model.
+httpsig,httpsig,Secure HTTP request signing using the HTTP Signature draft specification
+pydantic-vault,pydantic-vault,A simple extension to Pydantic BaseSettings that can retrieve secrets from Hashicorp Vault
+comiccrawler,comiccrawler,"An image crawler, including multiple modules and GUI."
+flask-paginate,flask-paginate,Simple paginate support for flask
+django-encrypted-model-fields,django-encrypted-model-fields,A set of fields that wrap standard Django fields with encryption provided by the python cryptography library.
+django-decorator-include,django-decorator-include,Include Django URL patterns with decorators
+pyspf,pyspf,SPF (Sender Policy Framework) implemented in Python.
+aiodnsresolver,aiodnsresolver,Pure asyncio Python DNS resolver
+django-graphiql-debug-toolbar,django-graphiql-debug-toolbar,Django Debug Toolbar for GraphiQL IDE.
+elasticecshandler,ElasticECSHandler,Elasticsearch ECS Log handler for the logging library
+google-cloud-private-ca,google-cloud-private-ca,Google Cloud Private Ca API client library
+fastapi-users,fastapi-users,Ready-to-use and customizable users management for FastAPI
+django-qr-code,django-qr-code,An application that provides tools for displaying QR codes on your Django site.
+flask-bouncer,flask-bouncer,Flask Simple Declarative Authentication based on Ryan Bates excellent cancan library
+django-admin-honeypot,django-admin-honeypot,A fake Django admin login screen to notify admins of attempted unauthorized access.
+djangocms-link,djangocms-link,Adds a link plugin to django CMS
+flask-classful,Flask-Classful,Class based views for Flask
+py3amf,Py3AMF,AMF support for Python
+django-pyodbc-azure,django-pyodbc-azure,Django backend for Microsoft SQL Server and Azure SQL Database using pyodbc
+aldryn-django,aldryn-django,An opinionated Django setup bundled as an Aldryn Addon
+meinheld,meinheld,High performance asynchronous Python WSGI Web Server
+sharepoint,sharepoint,Module and command-line utility to get data out of SharePoint
+cloudmesh-common,cloudmesh-common,A set of useful APIs for cloudmesh
+appoptics-metrics,appoptics-metrics,Python API Wrapper for AppOptics Metrics
+pubchempy,PubChemPy,A simple Python wrapper around the PubChem PUG REST API.
+ssh,ssh,SSH2 protocol library
+flask-uwsgi-websocket,Flask-uWSGI-WebSocket,High-performance WebSockets for your Flask apps powered by uWSGI.
+base58check,base58check,Base58check encoding and decoding of binary data
+cheetah,Cheetah,Cheetah is a template engine and code generation tool.
+asyncer,asyncer,"Asyncer, async and await, focused on developer experience."
+flask-moment,Flask-Moment,Formatting of dates and times in Flask templates using moment.js.
+python-social-auth,python-social-auth,Python social authentication made simple.
+certbot-dns-cloudflare,certbot-dns-cloudflare,Cloudflare DNS Authenticator plugin for Certbot
+rtoml,rtoml,"# rtoml
+
+[![Actions Status](https://github.com/samuelcolvin/rtoml/workflows/CI/badge.svg)](https://github.com/samuelcolvin/rtoml/actions?query=event%3Apush+branch%3Amain+workflow%3ACI)
+[![Coverage](https://codecov.io/gh/samuelcolvin/rtoml/branch/main/graph/badge.svg)](https://codecov.io/gh/samuelcolvin/rtoml)
+[![pypi](https://img.shields.io/pypi/v/rtoml.svg)](https://pypi.python.org/pypi/rtoml)
+[![versions](https://img.shields.io/pypi/pyversions/rtoml.svg)](https://github.com/samuelcolvin/rtoml)
+[![license](https://img.shields.io/github/license/samuelcolvin/rtoml.svg)](https://github.com/samuelcolvin/rtoml/blob/main/LICENSE)
+
+
+A better TOML library for python implemented in rust.
+
+## Why Use rtoml
+
+* Correctness: rtoml is based on the widely used and very stable [toml-rs](https://github.com/alexcrichton/toml-rs)
+library, it passes all the [standard TOML tests](https://github.com/BurntSushi/toml-test) as well as having 100%
+coverage on python code. Other TOML libraries for python I tried all failed to parse some valid TOML.
+* Performance: see [github.com/pwwang/toml-bench](https://github.com/pwwang/toml-bench) -
+  rtoml is the fastest Python TOML libraries at the time of writing.
+* `None`-value handling: rtoml has flexible support for `None` values, instead of simply ignoring them.
+
+## Install
+
+Requires `python>=3.9`, binaries are available from PyPI for Linux, macOS and Windows,
+see [here](https://pypi.org/project/rtoml/#files).
+
+```bash
+pip install rtoml
+```
+
+If no binary is available on pypi for you system configuration; you'll need rust stable
+installed before you can install rtoml.
+
+## Usage
+
+#### load
+```python
+def load(toml: Union[str, Path, TextIO], *, none_value: Optional[str] = None) -> Dict[str, Any]: ...
+```
+
+Parse TOML via a string or file and return a python dictionary.
+
+* `toml`: a `str`, `Path` or file object from `open()`.
+* `none_value`: controlling which value in `toml` is loaded as `None` in python. By default, `none_value` is `None`, which means nothing is loaded as `None`
+
+#### loads
+```python
+def loads(toml: str, *, none_value: Optional[str] = None) -> Dict[str, Any]: ...
+```
+
+Parse a TOML string and return a python dictionary. (provided to match the interface of `json` and similar libraries)
+
+* `toml`: a `str` containing TOML.
+* `none_value`: controlling which value in `toml` is loaded as `None` in python. By default, `none_value` is `None`, which means nothing is loaded as `None`
+
+#### dumps
+```python
+def dumps(obj: Any, *, pretty: bool = False, none_value: Optional[str] = ""null"") -> str: ...
+```
+
+Serialize a python object to TOML.
+
+* `obj`: a python object to be serialized.
+* `pretty`: if `True` the output has a more ""pretty"" format.
+* `none_value`: controlling how `None` values in `obj` are serialized. `none_value=None` means `None` values are ignored.
+
+#### dump
+```python
+def dump(
+    obj: Any, file: Union[Path, TextIO], *, pretty: bool = False, none_value: Optional[str] = ""null""
+) -> int: ...
+```
+
+Serialize a python object to TOML and write it to a file.
+
+* `obj`: a python object to be serialized.
+* `file`: a `Path` or file object from `open()`.
+* `pretty`: if `True` the output has a more ""pretty"" format.
+* `none_value`: controlling how `None` values in `obj` are serialized. `none_value=None` means `None` values are ignored.
+
+### Examples
+
+```py
+from datetime import datetime, timezone, timedelta
+import rtoml
+
+obj = {
+    'title': 'TOML Example',
+    'owner': {
+        'dob': datetime(1979, 5, 27, 7, 32, tzinfo=timezone(timedelta(hours=-8))),
+        'name': 'Tom Preston-Werner',
+    },
+    'database': {
+        'connection_max': 5000,
+        'enabled': True,
+        'ports': [8001, 8001, 8002],
+        'server': '192.168.1.1',
+    },
+}
+
+loaded_obj = rtoml.load(""""""\
+# This is a TOML document.
+
+title = ""TOML Example""
+
+[owner]
+name = ""Tom Preston-Werner""
+dob = 1979-05-27T07:32:00-08:00 # First class dates
+
+[database]
+server = ""192.168.1.1""
+ports = [8001, 8001, 8002]
+connection_max = 5000
+enabled = true
+"""""")
+
+assert loaded_obj == obj
+
+assert rtoml.dumps(obj) == """"""\
+title = ""TOML Example""
+
+[owner]
+dob = 1979-05-27T07:32:00-08:00
+name = ""Tom Preston-Werner""
+
+[database]
+connection_max = 5000
+enabled = true
+server = ""192.168.1.1""
+ports = [8001, 8001, 8002]
+""""""
+```
+
+An example of `None`-value handling:
+
+```python
+obj = {
+    'a': None,
+    'b': 1,
+    'c': [1, 2, None, 3],
+}
+
+# Ignore None values
+assert rtoml.dumps(obj, none_value=None) == """"""\
+b = 1
+c = [1, 2, 3]
+""""""
+
+# Serialize None values as '@None'
+assert rtoml.dumps(obj, none_value='@None') == """"""\
+a = ""@None""
+b = 1
+c = [1, 2, ""@None"", 3]
+""""""
+
+# Deserialize '@None' back to None
+assert rtoml.load(""""""\
+a = ""@None""
+b = 1
+c = [1, 2, ""@None"", 3]
+"""""", none_value='@None') == obj
+```"
+spotify,spotify,spotify.py is an asynchronous API wrapper for Spotify written in Python.
+eql,eql,Event Query Language
+pyldap,pyldap,DEPRECATED; use python-ldap instead
+autorch-sphinx-theme,autorch-sphinx-theme,PyTorch Sphinx Theme
+flask-breadcrumbs,Flask-Breadcrumbs,Flask-Breadcrumbs adds support for generating site breadcrumb navigation.
+python-logging-loki,python-logging-loki,Python logging handler for Grafana Loki.
+superdesk-core,Superdesk-Core,Superdesk Core library
+djangocms-picture,djangocms-picture,Adds an image plugin to django CMS
+django-rest-multiple-models,django-rest-multiple-models,Multiple model/queryset view (and mixin) for Django Rest Framework
+google-cloud-asset,google-cloud-asset,Google Cloud Asset API client library
+django-scim2,django-scim2,A partial implementation of the SCIM 2.0 provider specification for use with Django.
+dry-rest-permissions,dry-rest-permissions,Rules based permissions for the Django Rest Framework
+sanic-session,sanic-session,"Provides server-backed sessions for Sanic using Redis, Memcache and more."
+drf-api-tracking,drf-api-tracking,Utils to log Django Rest Framework requests to the database
+jupyterthemes,jupyterthemes,Select and install a Jupyter notebook theme
+flask-sqlalchemy-session,Flask-SQLAlchemy-Session,SQL Alchemy session scoped on Flask requests.
+django-render-block,django-render-block,Render a particular block from a template to a string.
+django-zxcvbn-password,django-zxcvbn-password,Back-end and Front-end password validation with ZXCVBN.
+atila,atila,Atila Framework
+edx-rest-api-client,edx-rest-api-client,Client utilities to access various Open edX Platform REST APIs.
+peewee-migrations,peewee-migrations,Migration engine for peewee orm
+discord-voice,discord-voice,Sans-I/O implementation of Discord voice communication
+cuid,cuid,"Fast, scalable unique ID generation"
+ambition-edc,ambition-edc,Ambition Trial EDC (https://doi.org/10.1186/ISRCTN72509687)
+sqlalchemy-searchable,sqlalchemy-searchable,Provides fulltext search capabilities for declarative SQLAlchemy models.
+celery-progress,celery-progress,"Drop in, configurable, dependency-free progress bars for your Django/Celery applications."
+bjoern,bjoern,A screamingly fast Python 2 + 3 WSGI server written in C.
+quart-discord,Quart-Discord,Discord OAuth2 extension for Quart.
+geoip,GeoIP,MaxMind GeoIP Legacy Database - Python API
+wait-for-it,wait-for-it,Wait for service(s) to be available before executing a command.
+discord2,discord2,A Python wrapper for the Discord API
+edx-django-release-util,edx-django-release-util,edx-django-release-util
+jupyter-http-over-ws,jupyter-http-over-ws,Jupyter support for HTTP-over-ws
+pypac,PyPAC,Proxy auto-config and auto-discovery for Python.
+dead-hosts-launcher,dead-hosts-launcher,The launcher of the Dead-Hosts infrastructure.
+many-requests,many-requests,Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
+dns-lexicon,dns-lexicon,Manipulate DNS records on various DNS providers in a standardized/agnostic way
+django-tools,django-tools,miscellaneous tools for Django based projects
+urlpath,urlpath,Object-oriented URL from `urllib.parse` and `pathlib`
+cabby,cabby,TAXII client library
+djangocms-file,djangocms-file,Adds file plugin to django CMS
+djangocms-video,djangocms-video,Adds video plugin to django CMS.
+abeja-sdk,abeja-sdk,ABEJA Platform Software Development Kit
+grafana-api,grafana-api,Yet another Python library for Grafana API
+edc-visit-schedule,edc-visit-schedule,Base classes for visit reports/tracking in clinicedc/edc
+eve,Eve,Python REST API for Humans.
+pyxnat,pyxnat,XNAT in Python
+cornice,cornice,Define Web Services in Pyramid.
+edc-action-item,edc-action-item,Add patient action items to clinicedc/edc projects
+flask-bootstrap4,Flask-Bootstrap4,"An extension that includes Bootstrap in your project, without any boilerplate code."
+hentai,hentai,Implements a wrapper class around nhentai's RESTful API.
+spark,spark,"A Super-Small, Super-Fast, and Super-Easy web framework"
+http-parser,http-parser,http request/response parser
+aiohttp-devtools,aiohttp-devtools,Dev tools for aiohttp
+edx-auth-backends,edx-auth-backends,Custom edX authentication backends and pipeline steps
+python-u2flib-server,python-u2flib-server,Python based U2F server library
+orionsdk,orionsdk,Python API for the SolarWinds Orion SDK
+flask-hal,Flask-HAL,Provides easy integration of the HAL specification for your REST Flask Applications.
+pygeocoder,pygeocoder,"Python interface for Google Geocoding API V3. Can be used to easily geocode, reverse geocode, validate and format addresses."
+google-cloud-functions,google-cloud-functions,Google Cloud Functions API client library
+edc-auth,edc-auth,Authentication for clinicedc/edc projects
+token-bucket,token-bucket,Very fast implementation of the token bucket algorithm.
+django-tree-queries,django-tree-queries,"Tree queries with explicit opt-in, without configurability"
+django-cities-light,django-cities-light,Simple alternative to django-cities
+ultimate-sitemap-parser,ultimate-sitemap-parser,A performant library for parsing and crawling sitemaps
+drf-recaptcha,drf-recaptcha,Django rest framework recaptcha field serializer
+python-cas,python-cas,Python CAS client library
+sqlalchemy-diff,sqlalchemy-diff,Compare two database schemas using sqlalchemy.
+flask-queryinspect,Flask-QueryInspect,Flask extension to provide metrics on SQL queries per request.
+srvlookup,srvlookup,Service lookup using DNS SRV records
+django-auth-adfs,django-auth-adfs,A Django authentication backend for Microsoft ADFS and AzureAD
+dkimpy,dkimpy,"DKIM (DomainKeys Identified Mail), ARC (Authenticated Receive Chain), and TLSRPT (TLS Report) email signing and verification"
+flask-menu,flask-menu,"""Flask-Menu is a Flask extension that adds support for generating menus."""
+zope,Zope,Zope application server / web framework
+aioimaplib,aioimaplib,Python asyncio IMAP4rev1 client library
+django-admin-json-editor,django-admin-json-editor,A simple Django app to add JSON widget into Django Administration.
+hikari,hikari,A sane Discord API for Python 3 built on asyncio and good intentions
+asgi-correlation-id,asgi-correlation-id,Middleware correlating project logs to individual requests
+pyrss2gen,PyRSS2Gen,Generate RSS2 using a Python data structure
+filestack-python,filestack-python,Filestack Python SDK
+facepy,facepy,Facepy makes it really easy to use Facebook's Graph API
+pylti1p3,PyLTI1p3,LTI 1.3 Advantage Tool implementation in Python
+flask-oidc2,flask-oidc2,OpenID Connect extension for Flask
+edc-appointment,edc-appointment,Appointment module for clinicedc/edc projects
+uwsgi-tools,uwsgi-tools,uwsgi tools: curl and reverse proxy
+secure-cookie,secure-cookie,Secure cookie and session interface for WSGI applications.
+pyck,PyCK,Python Code Karigar - Web Framework
+flask-plugins,Flask-Plugins,Create plugins for your Flask application
+spur,spur,Run commands and manipulate files locally or over SSH using the same interface
+django-static-sitemaps,django-static-sitemaps,Tool for generating sitemaps as static files
+fastapi-crudrouter,fastapi-crudrouter,A dynamic FastAPI router that automatically creates CRUD routes for your models
+edc-consent,edc-consent,"Base models, forms and admin for participant ICF for clinicedc/edc projects"
+pylast,pylast,A Python interface to Last.fm and Libre.fm
+discord-ext-ipc,discord-ext-ipc,A discord.py extension for inter-process communication.
+robyn,robyn,A Super Fast Async Python Web Framework with a Rust runtime.
+pydantic-yaml,pydantic-yaml,YAML reading/writing for Pydantic models
+falocalrepo,falocalrepo,"Pure Python program to download any user's gallery, scraps, favorites, and journals from FurAffinity in an easily handled database."
+djangocms-style,djangocms-style,Adds style plugin to django CMS
+webhelpers2,WebHelpers2,WebHelpers2
+certbot-dns-rfc2136,certbot-dns-rfc2136,RFC 2136 DNS Authenticator plugin for Certbot
+edc-visit-tracking,edc-visit-tracking,Base classes for visit reports/tracking in clinicedc/edc
+goose3,goose3,"Html Content / Article Extractor, web scrapping for Python3"
+edc-data-manager,edc-data-manager,Data manager administrative models and classes for clinicedc/edc projects
+mapproxy,MapProxy,An accelerating proxy for tile and web map services
+flask-mysql,Flask-MySQL,Flask simple mysql client
+pyvimeo,PyVimeo,Simple interaction with the Vimeo API.
+dozer,Dozer,WSGI Middleware version of the CherryPy memory leak debugger
+django-admin-multiple-choice-list-filter,django-admin-multiple-choice-list-filter,A Django app to add a Multiple Choice List Filter to the admin interface.
+django-static-precompiler,django-static-precompiler,Django template tags to compile all kinds of static files
+devpi-server,devpi-server,"devpi-server: reliable, private, and pypi.org caching server"
+edx-django-sites-extensions,edx-django-sites-extensions,Custom extensions for the Django sites framework
+txtorcon,txtorcon,"Twisted-based Tor controller client, with state-tracking and     configuration abstractions.     https://txtorcon.readthedocs.org     https://github.com/meejah/txtorcon"
+edc-lab,edc-lab,LIMS/lab classes for clinicedc/edc projects
+goodtables,goodtables,Goodtables is a framework to inspect tabular data.
+es2csv,es2csv,A CLI tool for exporting data from Elasticsearch into a CSV file.
+edc-adverse-event,edc-adverse-event,Adverse event and death classes for clinicedc/edc projects
+aioftp,aioftp,ftp client/server for asyncio
+edc-model-admin,edc-model-admin,"Edc custom django ModelAdmin mixins, tags and templates for clinicedc/edc projects"
+edc-dashboard,edc-dashboard,"Dashboard classes, templates for clinicedc/edc projects"
+django-invitations,django-invitations,Generic invitations app with support for django-allauth
+python-coveralls,python-coveralls,Python interface to coveralls.io API
+request-id,request-id,Attach a unique identifier to every WSGI request.
+edc-transfer,edc-transfer,Simple classes related to the django sites framework for clinicedc projects
+django-markdown-deux,django-markdown-deux,a Django app that provides template tags for using Markdown (using the python-markdown2 processor)
+gcloud-rest-auth,gcloud-rest-auth,Python Client for Google Cloud Auth
+django-cas-ng,django-cas-ng,"Django CAS 1.0/2.0/3.0 client authentication library, support Django 2.2, 3.0, 3.1, 3.2, 4.0 and Python 3.7+"
+optimus,Optimus,"Optimus is a static site builder using Jinja2, webassets and Babel."
+dialogflow,dialogflow,Client library for the Dialogflow API
+flask-rq2,Flask-RQ2,A Flask extension for RQ.
+django-twilio,django-twilio,Build Twilio functionality into your Django apps.
+sbvirtualdisplay,sbvirtualdisplay,A customized pyvirtualdisplay for SeleniumBase.
+edc-registration,edc-registration,Patient registration module for clinicedc/edc projects
+allianceauth-afat,allianceauth-afat,Another Fleet Activity Tracking tool for Alliance Auth
+edc-randomization,edc-randomization,Randomization classes for clinicedc/edc
+klein,klein,werkzeug + twisted.web
+player,player,Pyramid view layers
+streaming-form-data,streaming-form-data,Streaming parser for multipart/form-data
+docraptor,docraptor,DocRaptor
+djangocms-snippet,djangocms-snippet,Adds snippet plugin to django CMS.
+djangocms-icon,djangocms-icon,Adds icon plugin to django CMS.
+pylucid,PyLucid,PyLucid CMS
+postal,postal,Python bindings to libpostal for fast international address parsing/normalization
+sphinxcontrib-django,sphinxcontrib-django,Improve the Sphinx autodoc for Django classes.
+django-email-bandit,django-email-bandit,django-email-bandit is a Django email backend for hijacking email sending in a test environment.
+djangocms-googlemap,djangocms-googlemap,Adds Google Maps plugins to django CMS.
+grafeas,grafeas,Grafeas API client library
+django-embed-video,django-embed-video,Django app for easy embedding YouTube and Vimeo videos and music from SoundCloud.
+discoart,discoart,Create Disco Diffusion artworks in one line
+edc-metadata,edc-metadata,Add a metadata layer to data entry
+canvacord,canvacord,A Python Version of Canvacord
+flask-restless,Flask-Restless,A Flask extension for easy ReSTful API generation
+drf-enum-field,drf-enum-field,EnumField support for Django REST Framework 3
+axju-jokes,axju-jokes,Jokes for python
+edc-identifier,edc-identifier,Manage participant and other identifiers in the clinicedc/edc projects
+wsgiserver,WSGIserver,"A high-speed, production ready, thread pooled, generic WSGI server with SSL support"
+apistar,apistar,"API documentation, validation, mocking, and clients."
+django-userforeignkey,django-userforeignkey,A simple Django app that will give you a UserForeignKey model field.
+google-cloud-containeranalysis,google-cloud-containeranalysis,Google Cloud Containeranalysis API client library
+requests-oauth2,requests-oauth2,OAuth2 support to Python-Requests HTTP library.
+django-models-redis-cache,django-models-redis-cache,"Django Models Redis Cache (DMoReCa), library that gives your specified Django models regular caching via Redis"
+django-djconfig,django-djconfig,DjConfig is a Django app for storing dynamic configurations.
+feincms,FeinCMS,Django-based Page CMS and CMS building toolkit.
+cloudstorage,cloudstorage,Unified cloud storage API for storage services.
+edc,edc,EDC core modules for clinicedc/edc projects
+breadability,breadability,Port of Readability HTML parser in Python
+blue,blue,Blue -- Some folks like black but I prefer blue.
+squirroclient,SquirroClient,Python client for the Squirro API
+favicon,favicon,Get a website's favicon.
+aiorpcx,aiorpcX,"Generic async RPC implementation, including JSON-RPC"
+edc-pharmacy,edc-pharmacy,Pharmacy models and classes for clinicedc/edc projects
+eve-elastic,Eve-Elastic,Elasticsearch data layer for eve rest framework
+edc-device,edc-device,Get info on a data collection device for clinicedc/edc projects
+flask-qrcode,Flask-QRcode,A concise Flask extension to render QR codes on Jinja2 templates using python-qrcode
+gcloud-aio-bigquery,gcloud-aio-bigquery,Python Client for Google Cloud BigQuery
+uwsgidecorators,uwsgidecorators,uwsgidecorators standalone package
+edc-list-data,edc-list-data,Populate list data and other static model data on startup in clinicedc/edc projects
+flask-jsonpify,Flask-Jsonpify,A Flask extension adding a decorator for JSONP support
+labelme,labelme,Image Polygonal Annotation with Python
+flask-resty,Flask-RESTy,Building blocks for REST APIs for Flask
+django-rest-framework-mongoengine,django-rest-framework-mongoengine,MongoEngine support for Django Rest Framework.
+gallery-dl,gallery-dl,Command-line program to download image galleries and collections from several image hosting sites
+wiremock,wiremock,Wiremock Admin API Client
+rst2txt,rst2txt,Convert reStructuredText to plain text
+urlgrabber,urlgrabber,A high-level cross-protocol url-grabber
+gcp-docuploader,gcp-docuploader,
+google-cloud-happybase,google-cloud-happybase,Client library for Google Cloud Bigtable: HappyBase layer
+janrain-python-api,janrain-python-api,Python interface to the Janrain Capture API.
+abejacli,abejacli,ABEJA Platform Command line tool
+edc-label,edc-label,Labeling
+django-inline-svg,django-inline-svg,A simple SVG template tag for Django
+headerparser,headerparser,argparse for mail-style headers
+aa-srp,aa-srp,Improved SRP Module for Alliance Auth
+airspeed,airspeed,Airspeed is a powerful and easy-to-use templating engine for Python that aims for a high level of compatibility with the popular Velocity library for Java.
+edc-lab-dashboard,edc-lab-dashboard,Lab dashboard views for clinicedc/edc projects
+django-dry-rest-permissions,django-dry-rest-permissions,Rules based permissions for the Django Rest Framework
+djangocms-bootstrap4,djangocms-bootstrap4,Adds Bootstrap 4 components as plugins.
+edc-constants,edc-constants,Common constants & choices for clinicedc/edc projects.
+sol,SoL,Carrom tournaments management
+edc-review-dashboard,edc-review-dashboard,A dashboard with direct links to review a subject's CRFs and Requisitions in clinicedc/edc projects
+xmpppy,xmpppy,XMPP implementation in Python
+flask-htmlmin,Flask-HTMLmin,Minify flask text/html mime type responses
+httpie-jwt-auth,httpie-jwt-auth,JWTAuth plugin for HTTPie.
+django-rest-framework-social-oauth2,django-rest-framework-social-oauth2,python-social-auth and oauth2 support for django-rest-framework
+device-detector,device-detector,Python3 port of matomo's Device Detector
+exabgp,exabgp,BGP swiss army knife
+ambition-subject,ambition-subject,Subject/Participant models for ambition/edc.
+alembic-verify,alembic-verify,A library to verify migrations and models are in sync.
+fanficfare,FanFicFare,A tool for downloading fanfiction to eBook formats
+cashews,cashews,cache tools with async power
+gcloud-aio-pubsub,gcloud-aio-pubsub,Python Client for Google Cloud Pub/Sub
+sentence-splitter,sentence-splitter,Text to sentence splitter using heuristic algorithm by Philipp Koehn and Josh Schroeder
+feincms3,feincms3,CMS-building toolkit for Django
+djangorestframework-jsonp,djangorestframework-jsonp,JSONP support for Django REST Framework
+flask-awscognito,Flask-AWSCognito,Authenticate users with AWS Cognito
+scrapinghub,scrapinghub,Client interface for Scrapinghub API
+tenjin,Tenjin,a fast and full-featured template engine based on embedded Python
+flask-and-redis,Flask-And-Redis,Simple as dead support of Redis database for Flask apps.
+mojang,mojang,A Python wrapper for the Mojang API and Minecraft website
+django-spaghetti-and-meatballs,django-spaghetti-and-meatballs,Its a spicy meatball for serving up fresh hot entity-relationship diagrams straight from your django models.
+django-request-cache,django-request-cache,A simple Django app that provides a per-request cache.
+google-cloud-appengine-admin,google-cloud-appengine-admin,Google Cloud Appengine Admin API client library
+edc-form-validators,edc-form-validators,Form validator classes for common patterns in django ModelForms.
+edc-reportable,edc-reportable,"Reportable clinic events, reference ranges, grading for clinicedc/edc projects"
+wsgidav,WsgiDAV,Generic and extendable WebDAV server based on WSGI
+naval,naval,Validation library with error messages in multiple languages and a readable syntax.
+solution,Solution,An amazing form solution
+sumy,sumy,Module for automatic summarization of text documents and HTML pages.
+django-username-email,django-username-email,Custom Django User model that makes email the USERNAME_FIELD.
+odmantic,odmantic,"ODMantic, an AsyncIO MongoDB Object Document Mapper for Python using type hints"
+wtforms-sqlalchemy,WTForms-SQLAlchemy,SQLAlchemy tools for WTForms
+flask-markdown,Flask-Markdown,Small extension to make using markdown easy
+django-analytical,django-analytical,Analytics service integration for Django projects
+django-url-shortening,django-url-shortening,A URL shortening app for Django.
+django-chunkator,django-chunkator,"Chunk large QuerySets into small chunks, and iterate over them without killing your RAM."
+wagtailfontawesome,wagtailfontawesome,Add FontAwesome icons to StreamField.
+flask-inflate,Flask-Inflate,Inflate / Decompress gzipped requests
+cloudmesh-installer,cloudmesh-installer,Installer for cloudmesh
+flask-minify,Flask-Minify,"Flask extension to minify html, css, js and less."
+consulate,consulate,A Client library for the Consul
+aa-memberaudit,aa-memberaudit,An Alliance Auth app that provides full access to Eve characters
+django-audit-fields,django-audit-fields,"Add model fields to track creation and modification dates, users and more on save"
+pychrome,pychrome,A Python Package for the Google Chrome Dev Protocol
+edc-offstudy,edc-offstudy,Base classes for off study process for clinicedc/edc
+kinesis-python,kinesis-python,"Low level, multiprocessing based AWS Kinesis producer & consumer library"
+surveygizmo,SurveyGizmo,A Python Wrapper for SurveyGizmo's restful API service.
+edc-model,edc-model,Base model mixins clinicedc/edc projects
+woothee,woothee,"Cross-language UserAgent classifier library, python implementation"
+flask-dropzone,Flask-Dropzone,Upload files in Flask with Dropzone.js.
+advocate,advocate,A wrapper around the requests library for safely making HTTP requests on behalf of a third party
+aa-forum,aa-forum,Simple forum for Alliance Auth
+trello,trello,Python library for interacting with the Trello API
+drf-renderer-xlsx,drf-renderer-xlsx,Stub to alias the `drf-excel` package.
+django-author,django-author,Add special User ForeignKey fields which update automatically
+django-private-storage,django-private-storage,Private media file storage for Django projects
+djangorestframework-yaml,djangorestframework-yaml,YAML support for Django REST Framework
+django-service-objects,django-service-objects,Service objects for Django
+flask-s3,Flask-S3,Seamlessly serve the static files of your Flask app from Amazon S3
+aa-structures,aa-structures,App for managing Eve Online structures with Alliance Auth.
+pycircleci,pycircleci,Python client for CircleCI API
+flask-uploads,Flask-Uploads,Flexible and efficient upload handling for Flask
+edc-screening,edc-screening,Screening and eligibility classes for clinicedc/edc
+flask-paranoid,Flask-Paranoid,Simple user session protection
+aiohttp-swagger3,aiohttp-swagger3,validation for aiohttp swagger openAPI 3
+mimeparse,mimeparse,A module provides basic functions for parsing mime-type names and matching them against a list of media-ranges.
+django-excel,django-excel,A django middleware that provides one application programminginterface to read and write data in different excel file formats
+google-cloud-documentai,google-cloud-documentai,Google Cloud Documentai API client library
+google-cloud-os-config,google-cloud-os-config,Google Cloud Os Config API client library
+certbot-dns-nsone,certbot-dns-nsone,NS1 DNS Authenticator plugin for Certbot
+edc-facility,edc-facility,Define clinic facilities for clinicedc/edc projects
+feedgenerator,feedgenerator,Standalone version of django.utils.feedgenerator
+wsgicors,wsgicors,WSGI for Cross Origin Resource Sharing (CORS)
+you-get,you-get,Dumb downloader that scrapes the web
+google-cloud-talent,google-cloud-talent,Google Cloud Talent API client library
+webscripts,WebScripts,This tool runs CLI scripts and displays output in a Web Interface.
+seedboxmanager,SeedboxManager,Seedbox Task Manager
+quart-cors,quart-cors,"A Quart extension to provide Cross Origin Resource Sharing, access control, support"
+pytube3,pytube3,Python 3 library for downloading YouTube Videos.
+pywikibot,pywikibot,Python MediaWiki Bot Framework
+event-tracking,event-tracking,A simple event tracking system.
+google-cloud-access-context-manager,google-cloud-access-context-manager,Google Cloud Access Context Manager Protobufs
+ambition-ae,ambition-ae,Adverse Event models and handling.
+pyramid-zcml,pyramid-zcml,Zope Config Markup Language support for Pyramid
+flask-gravatar,Flask-Gravatar,Small extension for Flask to make usage of Gravatar service easy.
+aiosolr,aiosolr,Lightweight AsyncIO Python client for Apache Solr
+django-pwa,django-pwa,A Django app to include a manifest.json and Service Worker instance to enable progressive web app behavior
+selene,selene,Concise API for selenium in Python + Ajax support + PageObjects (Selenide port from Java to Python)
+clip-client,clip-client,Embed images and sentences into fixed-length vectors via CLIP
+edc-crf,edc-crf,Base classes for CRFs in clinicedc/edc projects
+flask-rest-api,flask-rest-api,Build a REST API with Flask
+django-clone,django-clone,Create a clone of a django model instance.
+dockerflow,dockerflow,Python tools and helpers for Mozilla's Dockerflow
+django-unique-upload,django-unique-upload,A django utility that creates unique file names for uploaded files via uuids.
+django-admin-sso,django-admin-sso,Django SSO solution
+edc-utils,edc-utils,Simple utilities for clinicedc/edc projects
+clients,clients,High-level HTTP clients for Python.
+pyramid-multiauth,pyramid-multiauth,An authentication policy for Pyramid that proxies to a stack of other authentication policies
+django-prices,django-prices,Django fields for the prices module
+django-partial-index,django-partial-index,PostgreSQL and SQLite partial indexes for Django models
+cefpython3,cefpython3,GUI toolkit for embedding a Chromium widget in desktop applications
+edc-protocol,edc-protocol,Protocol specific variables for clinicedc/edc
+django-uuid-upload-path,django-uuid-upload-path,Generate short UUIDs and use them as paths for uploaded media files in Django.
+linkheader,LinkHeader,"Parse and format link headers according to RFC 5988 ""Web Linking"""
+apraw,aPRAW,aPRAW is an asynchronous Reddit API wrapper written in Python.
+flask-kvsession,Flask-KVSession,Transparent server-side session support for flask
+websocket-server,websocket-server,A simple fully working websocket-server in Python with no external dependencies
+google-cloud-org-policy,google-cloud-org-policy,Google Cloud Org Policy API client library
+jina-auth,jina-auth,A CLI for you to login in to Jina Ecosystem
+citeurl,citeurl,an extensible tool to process legal citations in text
+streamlink,streamlink,Streamlink is a command-line utility that extracts streams from various services and pipes them into a video player of choice.
+pydig,pydig,Python wrapper library for the 'dig' command line tool
+pyu4v,pyu4v,A Python library for use with Dell EMC's Unisphere for PowerMax REST API.
+edc-prn,edc-prn,classes and utils for PRN forms in the clinicedc/edc projects
+linkchecker,LinkChecker,check links in web documents or full websites
+django-opentracing,django-opentracing,OpenTracing support for Django applications
+django-mobile,django-mobile,Detect mobile browsers and serve different template flavours to them.
+dirty-equals,dirty-equals,Doing dirty (but extremely useful) things with equals.
+clam,CLAM,Turns command-line tools into fully-fledged RESTful webservices with an auto-generated web-interface for human end-users.
+django-debreach,django-debreach,Adds middleware to give some added protection against the BREACH attack in Django.
+aiocoap,aiocoap,Python CoAP library
+excel2json-3,excel2json-3,Convert Excel Sheet into JSON file.
+pystemmer,PyStemmer,"Snowball stemming algorithms, for information retrieval"
+teslajsonpy,teslajsonpy,A library to work with Tesla API.
+awslimitchecker,awslimitchecker,"A script and python module to check your AWS service limits and usage, and warn when usage approaches limits."
+aa-stripe,aa-stripe,Stripe integration for Django-based projects
+google-cloud-dialogflow-cx,google-cloud-dialogflow-cx,Google Cloud Dialogflow Cx API client library
+flask-autoindex,Flask-AutoIndex,The mod_autoindex for Flask
+django-admin-view-permission,django-admin-view-permission,A simple Django app which adds view permissions.
+osgridconverter,OSGridConverter,Library to convert co-ordinates between the (UK) Ordnance Survey National Grid and latitude/longitude
+brunette,brunette,A best practice Python code formatter
+flask-mobility,Flask-Mobility,A Flask extension to simplify building mobile-friendly sites.
+pheweb,PheWeb,A tool for building PheWAS websites from association files
+aiohttp-sqlalchemy,aiohttp-sqlalchemy,SQLAlchemy 2.0 support for aiohttp.
+clip-as-service,clip-as-service,Embed images and sentences into fixed-length vectors via CLIP
+cannon,cannon,An SSH automation tool based on Exscript
+django-crypto-fields,django-crypto-fields,Add encrypted field classes and more to your Django models
+aiohttp-json-rpc,aiohttp-json-rpc,Implementation JSON-RPC 2.0 server and client using aiohttp on top of websockets transport
+flameprof,flameprof,cProfile flamegraph generator
+drf-generators,drf-generators,"Generate DRF Serializers, Views, and urls for your API application."
+edc-ltfu,edc-ltfu,Loss to follow up classes for the clinicedc/edc
+flask-silk,Flask-Silk,"Adds silk icons to your Flask application or blueprint, or extension."
+aiohttp-json-api,aiohttp-json-api,JSON API driven by aiohttp
+grafana-client,grafana-client,"A client library for accessing the Grafana HTTP API, written in Python"
+edc-protocol-violation,edc-protocol-violation,Classes for protocol violations and deviations in clinicedc/edc projects
+flask-user,Flask-User,"Customizable User Authentication & User Management: Register, Confirm, Login, Change username/password, Forgot password and more."
+libthumbor,libthumbor,libthumbor is the python extension to generate thumbor URLs
+edc-export,edc-export,Export data for clinicedc/edc projects
+camerahub,camerahub,"App for cataloguing vintage cameras, lenses, films, negatives & prints"
+certbot-dns-digitalocean,certbot-dns-digitalocean,DigitalOcean DNS Authenticator plugin for Certbot
+django-querysetsequence,django-querysetsequence,Chain together multiple (disparate) QuerySets to treat them as a single QuerySet.
+fastapi-restful,fastapi-restful,Quicker FastApi developing tools
+connexion2,connexion2,Connexion - API first applications with OpenAPI/Swagger and Flask
+pttlibrary,PTTLibrary,PTT library
+ambition-prn,ambition-prn,"PRN forms such as offstudy, protocol violation, etc"
+serveit,ServeIt,Machine learning prediction serving
+pyral,pyral,Python toolkit for Rally REST API
+pysimplesoap,PySimpleSOAP,Python simple and lightweight SOAP Library (master branch)
+weblate,weblate,A web-based continuous localization system with tight version control integration
+coinaddrvalidator,coinaddrvalidator,A crypto-currency address inspection/validation library.
+permission,permission,Simple and flexible permission control for Flask app.
+safe-netrc,safe-netrc,Safe netrc file parser
+parse-accept-language,parse-accept-language,Parse Accept-Language HTTP header
+acos-client,acos-client,A10 Networks ACOS API Client
+escherauth-go,escherauth-go,Python wrapper for the Go implementation of the AWS4 compatible Escher HTTP request signing protocol.
+certbot-dns-google,certbot-dns-google,Google Cloud DNS Authenticator plugin for Certbot
+django-tz-detect,django-tz-detect,Automatic user timezone detection for django
+scrapyd,scrapyd,"A service for running Scrapy spiders, with an HTTP API"
+resteasycli,RESTEasyCLI,Handy REST API client on your terminal
+django-recaptcha2,django-recaptcha2,Django reCaptcha v2 field/widget
+certbot-dns-azure,certbot-dns-azure,Azure DNS Authenticator plugin for Certbot
+edc-adherence,edc-adherence,Classes to manage adherence in clinicedc/edc projects
+wsgi-intercept,wsgi-intercept,wsgi_intercept installs a WSGI application in place of a real URI for testing.
+pillow,pillow,Python Imaging Library (Fork)
+seaborn,seaborn,Statistical data visualization
+imagesize,imagesize,Getting image size from png/jpeg/jpeg2000/gif file
+resampy,resampy,Efficient signal resampling
+azureml-train-core,azureml-train-core,Provides estimators for training models.
+qrcode,qrcode,QR Code image generator
+librosa,librosa,Python module for audio and music processing
+azureml-pipeline-core,azureml-pipeline-core,"Contains core functionality for Azure Machine Learning pipelines, which are configurable machine learning workflows."
+torchaudio,torchaudio,An audio package for PyTorch
+gtts,gTTS,"gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate text-to-speech API"
+cairocffi,cairocffi,cffi-based cairo bindings for Python
+cairosvg,CairoSVG,A Simple SVG Converter based on Cairo
+wand,Wand,Ctypes-based simple MagickWand API binding for Python
+rasterio,rasterio,Fast and direct raster I/O for use with Numpy and SciPy
+pygame,pygame,Python Game Development
+svgwrite,svgwrite,A Python library to create SVG drawings.
+av,av,Pythonic bindings for FFmpeg's libraries.
+fonttools,fonttools,Tools to manipulate font files
+yt-dlp,yt-dlp,A feature-rich command-line audio/video downloader
+moviepy,moviepy,Video editing with Python
+leather,leather,Python charting for 80% of humans.
+pydub,pydub,Manipulate audio with an simple and easy high level interface
+python-nvd3,python-nvd3,Python NVD3 - Chart Library for d3.js
+mutagen,mutagen,read and write audio tags for many formats
+audioread,audioread,"Multi-library, cross-platform audio decoding."
+soundfile,soundfile,"An audio library based on libsndfile, CFFI and NumPy"
+fpdf,fpdf,Simple PDF generation for Python
+pydeck,pydeck,Widget for deck.gl maps
+affine,affine,Matrices describing affine transformation of the plane
+svglib,svglib,A pure-Python library for reading and converting SVG
+xhtml2pdf,xhtml2pdf,PDF generator using HTML and CSS
+pyclipper,pyclipper,Cython wrapper for the C++ translation of the Angus Johnson's Clipper library (ver. 6.4.2)
+speechrecognition,SpeechRecognition,"Library for performing speech recognition, with support for several engines and APIs, online and offline."
+pikepdf,pikepdf,"Read and write PDFs with Python, powered by qpdf"
+mss,mss,An ultra fast cross-platform multiple screenshots module in pure python using ctypes.
+pypng,pypng,Pure Python library for saving and loading PNG images
+fpdf2,fpdf2,Simple & fast PDF generation for Python
+hachoir,hachoir,Package of Hachoir parsers used to open binary files
+pdfrw,pdfrw,PDF file reader/writer library
+open3d,open3d,Open3D: A Modern Library for 3D Data Processing.
+ffmpy,ffmpy,A simple Python wrapper for FFmpeg
+agate-sql,agate-sql,agate-sql adds SQL read/write support to agate.
+python-barcode,python-barcode,Create standard barcodes with Python. No external modules needed. (optional Pillow support included).
+spotdl,spotdl,Download your Spotify playlists and songs along with album art and metadata
+piexif,piexif,"To simplify exif manipulations with python. Writing, reading, and more..."
+willow,Willow,"A Python image library that sits on top of Pillow, Wand and OpenCV"
+ipympl,ipympl,Matplotlib Jupyter Extension
+pysimplegui,PySimpleGUI,PySimpleGUI is now located on a private PyPI server.  Please add to your pip command: --extra-index-url https://PySimpleGUI.net/install
+pyopengl,PyOpenGL,Standard OpenGL bindings for Python
+kaldi-io,kaldi-io,Glue code connecting Kaldi data and Python.
+agate-excel,agate-excel,agate-excel adds read support for Excel files (xls and xlsx) to agate.
+agate-dbf,agate-dbf,agate-dbf adds read support for dbf files to agate.
+sounddevice,sounddevice,Play and Record Sound with Python
+art,art,ASCII Art Library For Python
+playsound,playsound,"Pure Python, cross platform, single function module with no dependencies for playing sounds."
+pyglm,pyglm,OpenGL Mathematics library for Python
+pygal,pygal,A Python svg graph plotting library
+rawpy,rawpy,"RAW image processing for Python, a wrapper for libraw"
+unitypy,UnityPy,A Unity extraction and patching package
+keplergl,keplergl,"This is a simple jupyter widget for kepler.gl, an advanced geospatial visualization tool, to render large-scale interactive maps."
+kivy,Kivy,"An open-source Python framework for developing GUI apps that work cross-platform, including desktop, mobile and embedded platforms."
+ipyleaflet,ipyleaflet,A Jupyter widget for dynamic Leaflet maps
+aggdraw,aggdraw,High quality drawing interface for PIL.
+pyaudio,PyAudio,Cross-platform audio I/O with PortAudio
+bqplot,bqplot,"Interactive plotting for the Jupyter notebook, using d3.js and ipywidgets."
+qgrid,qgrid,An Interactive Grid for Sorting and Filtering DataFrames in Jupyter Notebook
+guessit,guessit,GuessIt - a library for guessing information from video filenames.
+ipysheet,ipysheet,Spreadsheet in the Jupyter notebook.
+django-versatileimagefield,django-versatileimagefield,"A drop-in replacement for django's ImageField that provides a flexible, intuitive and easily-extensible interface for creating new images from the one assigned to the field."
+glfw,glfw,A ctypes-based wrapper for GLFW3.
+ipyvuetify,ipyvuetify,Jupyter widgets based on vuetify UI components
+ipyvue,ipyvue,Jupyter widgets base for Vue libraries
+termplotlib,termplotlib,Python plotting for the command line
+freetype-py,freetype-py,Freetype python bindings
+zxing,zxing,Wrapper for decoding/reading barcodes with ZXing (Zebra Crossing) library
+segno,segno,QR Code and Micro QR Code generator for Python
+panda3d,Panda3D,Panda3D is a framework for 3D rendering and game development for Python and C++ programs.
+psd-tools,psd-tools,Python package for working with Adobe Photoshop PSD files
+pythreejs,pythreejs,"Interactive 3D graphics for the Jupyter Notebook and JupyterLab, using Three.js and Jupyter Widgets."
+kaldiio,kaldiio,Kaldi-ark loading and writing module
+tesserocr,tesserocr,"A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython"
+pillow-simd,Pillow-SIMD,Python Imaging Library (Fork)
+sickchill,sickchill,Automatic Video Library Manager for TV Shows
+eyed3,eyeD3,Python audio data toolkit (ID3 and MP3)
+ipyvolume,ipyvolume,IPython widget for rendering 3d volumes
+python-xmp-toolkit,python-xmp-toolkit,Python XMP Toolkit for working with metadata.
+ipywebrtc,ipywebrtc,WebRTC for Jupyter notebook/lab
+webviz-core-components,webviz-core-components,Core components for webviz-config
+pillow-heif,pillow-heif,Python interface for libheif library
+python-vlc,python-vlc,VLC bindings for python.
+webviz-config,webviz-config,Configuration file support for webviz
+lottie,lottie,A framework to work with lottie files and telegram animated stickers (tgs)
+gtts-token,gTTS-token,Calculates a token to run the Google Translate text to speech
+webviz-subsurface-components,webviz-subsurface-components,Custom Dash components for use in Webviz.
+babelfish,babelfish,A module to work with countries and languages
+webviz-config-equinor,webviz-config-equinor,Webviz config Equinor theme
+srt,srt,"A tiny library for parsing, modifying, and composing SRT files."
+earthengine-api,earthengine-api,Earth Engine Python API
+azureml-widgets,azureml-widgets,"Provides fully supported, with interactivity, async auto-updates, and non-blocking cell execution."
+pil-compat,pil-compat,"Compatibility modules, bridging PIL -> Pillow"
+ipytree,ipytree,A Tree Widget using jsTree
+skia-pathops,skia-pathops,Python access to operations on paths using the Skia library
+klio-audio,klio-audio,Library for audio-related Klio transforms and helpers
+klio,klio,Conventions for Python + Apache Beam
+klio-exec,klio-exec,Klio pipeline executor within a job
+klio-core,klio-core,Core klio library for common functionality
+distinctipy,distinctipy,A lightweight package for generating visually distinct colours.
+pyaudioanalysis,pyAudioAnalysis,"Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications"
+django-stdimage,django-stdimage,Django Standarized Image Field
+sewar,sewar,All image quality metrics you need in one package.
+pysoundfile,PySoundFile,"An audio library based on libsndfile, CFFI and NumPy"
+glcontext,glcontext,Portable Headless OpenGL Context
+imgdiff,imgdiff,Present two images side-by-side for visual comparison
+svgpathtools,svgpathtools,A collection of tools for manipulating and analyzing SVG Path objects and Bezier curves.
+youtube-dl2,youtube-dl2,YouTube video downloader
+opentok,opentok,OpenTok server-side SDK
+response,response,Your handy frequency and impulse response processing object
+splipy,splipy,Spline modelling library for Python
+ipyevents,ipyevents,A custom widget for returning mouse and keyboard events to Python
+pykml,pykml,Python KML library
+scikit-video,scikit-video,Video Processing in Python
+moderngl,moderngl,ModernGL: High performance rendering for Python 3
+aeidon,aeidon,"Reading, writing and manipulating text-based subtitle files"
+pedalboard,pedalboard,A Python library for adding effects to audio.
+pypdfium2,pypdfium2,Python bindings to PDFium
+pyopengl-accelerate,PyOpenGL-accelerate,Cython-coded accelerators for PyOpenGL
+sidekit,SIDEKIT,"Speaker, Language Recognition and Diarization package."
+soxr,soxr,"High quality, one-dimensional sample-rate conversion library"
+fake-bpy-module-latest,fake-bpy-module-latest,Collection of the fake Blender Python API module for the code completion.
+pyfftw,pyFFTW,"A pythonic wrapper around FFTW, the FFT library, presenting a unified interface for all the supported transforms."
+subliminal,subliminal,"Subtitles, faster than your thoughts"
+pysrt,pysrt,SubRip (.srt) subtitle parser and writer
+viivakoodi,viivakoodi,Create standard barcodes with Python. No external modules needed (optional PIL support included).
+pyogg,PyOgg,"Xiph.org's Ogg Vorbis, Opus and FLAC for Python"
+pyvips,pyvips,binding for the libvips image processing library
+discord-musicbot,discord-musicbot,MusicBot bot for Discord.
+music21,music21,A Toolkit for Computer-Aided Musical Analysis and Computational Musicology.
+endesive,endesive,"Library for digital signing and verification of digital signatures in mail, PDF and XML documents."
+exif,exif,Read and modify image EXIF metadata using Python.
+julius,julius,"Nice DSP sweets: resampling, FFT Convolutions. All with PyTorch, differentiable and with CUDA support."
+imantics,imantics,Python package for managing image annotations
+pysimpleguiweb,PySimpleGUIWeb,A port of PySimpleGUI that runs in a web browser.  Utilizes Remi as the GUI framework
+html2image,html2image,Package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files.
+svgutils,svgutils,Python SVG editor
+tswift,tswift,MetroLyrics API
+azureml-tensorboard,azureml-tensorboard,Machine Learning TensorBoard package combines AzureML     SDK with TensorBoard visualization
+samplerate,samplerate,Monolithic python wrapper for libsamplerate based on pybind11 and NumPy
+ffprobe,ffprobe,Wrapper around ffprobe command to extract metadata from media files
+fake-bge-module-latest,fake-bge-module-latest,Collection of the fake Blender Game Engine (BGE) Python API module for the code completion.
+dhash,dhash,"Calculate difference hash (perceptual hash) for a given image, useful for detecting duplicates"
+pyalsaaudio,pyalsaaudio,ALSA bindings
+pysimplegui27,PySimpleGUI27,"Python 2.7 version of PySimpleGUI - GUI SDK Launched in 2018 Actively developed and supported. Super-simple to create custom GUI's.  Python 2.7 & 3 Support. 100 Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Rainmeter Style Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. Great for beginners as well as advanced GUI programmers"
+opentimelineio,OpenTimelineIO,Editorial interchange format and API
+noise,noise,Perlin noise for Python
+pyrr,pyrr,3D mathematical functions using NumPy
+pypylon,pypylon,The python wrapper for the Basler pylon Camera Software Suite.
+discord-ext-music,discord-ext-music,An easy-to-use music extension for discord.py
+pysubs2,pysubs2,A library for editing subtitle files
+pyrealsense2,pyrealsense2,Python Wrapper for Intel Realsense SDK 2.0.
+supriya,supriya,A Python API for SuperCollider
+taichi,taichi,The Taichi Programming Language
+zxing-cpp,zxing-cpp,Python bindings for the zxing-cpp barcode library
+pysimpleguiqt,PySimpleGUIQt,"Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxPython, and Remi into a simple, intuitive, and fun experience for both hobbyists and expert users."
+numpy,numpy,Fundamental package for array computing in Python
+matplotlib,matplotlib,Python plotting package
+scipy,scipy,Fundamental algorithms for scientific computing in Python
+scikit-learn,scikit-learn,A set of python modules for machine learning and data mining

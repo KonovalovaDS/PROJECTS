@@ -1,0 +1,29 @@
+# OS / editor
+.DS_Store
+.vscode/
+*.vsix
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets & env
+.env
+*.env
+.env.*
+
+# Data & artifacts
+outputs/
+models/
+*.pkl
+*.bin
+*.h5
+*.pt
+*.onnx

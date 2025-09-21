@@ -1,0 +1,23 @@
+# Core numeric stack (compatible with Python 3.12 and gensim 4.3.x)
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.3.2
+
+# ML / NLP
+scikit-learn==1.5.2
+gensim==4.3.3
+annoy==1.17.3
+rank-bm25==0.2.2
+spacy==3.8.7
+
+# Web / API / App
+fastapi==0.116.2
+uvicorn==0.36.0
+streamlit==1.49.1
+
+# Utilities
+requests==2.32.3
+beautifulsoup4==4.13.0
+lxml==6.0.1
+tqdm==4.67.1
+joblib==1.4.2

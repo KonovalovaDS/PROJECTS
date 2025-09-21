@@ -21,3 +21,5 @@
 [7. Online Learning: Student Dropout Probability Prediction](https://github.com/KonovalovaDS/PROJECTS/tree/master/07_DropoutProbability)
 
 [8. CyberSecurity Risk: Intelligence with ML](https://github.com/KonovalovaDS/PROJECTS/tree/master/08_CyberRisk_IntelligenceML)
+
+[9. PyPI & Python FAQ Chatbot](https://github.com/KonovalovaDS/PROJECTS/tree/master/09_Chatbot_Python)
